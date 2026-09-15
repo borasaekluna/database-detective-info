@@ -1,10 +1,11 @@
-![Database Detective OUT NOW image from Steam post](https://clan.fastly.steamstatic.com/images/45766296/23610b329a68dc76e37ac40b6ac91ad1c12d7cb1_960x311.png)
 
 # Database Detective Info 
+
 `database-detective-info` is the official GitHub repository for information about the [Database Detective: Minor Crimes Division](https://store.steampowered.com/app/3950130/Database_Detective_Minor_Crimes_Division) game.
 
 ![assistant wave gif](https://clan.fastly.steamstatic.com/images//45766296/e9f60ac520d6d75b47448ba8cf1462538931b6e7.png)
 
+![more than just knowing sql](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3950130/extras/371de83286e44b6cb3a723a37a13484f.webp?t=1784303268)
 <!------------------------------------------- DIVIDER ------------------------------------------->
 # Jump to:
 ## Quick Links - *(lists of external links)*
@@ -29,6 +30,8 @@
 
 # Quick Links
 
+![Database Detective Discord image from Steam post](https://clan.fastly.steamstatic.com/images/45766296/e39a36bb926cc3906ebc7add6554f162af0f6e6b_960x311.png)
+
 ### Socials
 **Instagram** [https://www.instagram.com/databasedetective/](https://www.instagram.com/databasedetective/)\
 **YouTube** [https://www.youtube.com/@thomashsuster](https://www.youtube.com/@thomashsuster)\
@@ -39,12 +42,12 @@
 **Discord** [Join our Discord server!](https://discord.gg/vGFGP4CyUd)\
 **Steam** [Check out the Community Discussions threads!](https://steamcommunity.com/app/3950130/discussions/)
 
-![Database Detective Discord image from Steam post](https://clan.fastly.steamstatic.com/images/45766296/e39a36bb926cc3906ebc7add6554f162af0f6e6b_960x311.png)
-
 ### YouTube Trailers
 Game Trailer [DATABASE DETECTIVE TRAILER](https://youtu.be/LuWbSgne2bw?si=fAeTA5fFkkWauqT-)\
 Game Release Date Announcement [Database Detective: Minor Crimes Division | Release Date Trailer](https://youtu.be/9R1E-J1YAWM?si=2kzC9_Nc9eG3VtMH)\
 Steam Game Launch [Database Detective: Minor Crimes Division | Launch Trailer](https://youtu.be/ij2HJW8ZF0c?si=JSTx5YubCjzOZrOj)
+
+![trailer1 gif](https://i.ytimg.com/an_webp/LuWbSgne2bw/mqdefault_6s.webp?du=3000&sqp=CLCFp9UG&rs=AOn4CLB-AXAZfL-IfvxqlMPdhg2BNQ37Zw)
 
 ### Feedback / Bug Reports / Feature Requests
 [Known Issues](https://steamcommunity.com/app/3950130/discussions/0/580551263528204084/) *(known issues list on Steam community discussions pinned post)*\
@@ -52,6 +55,7 @@ Steam Game Launch [Database Detective: Minor Crimes Division | Launch Trailer](h
 
 **The form is our preferred method (for tracking/organization)**, but you can also use the [Steam community discussions](https://steamcommunity.com/app/3950130/discussions/) pinned posts or the bug-reports & feature-requests channels in [our Discord server](https://discord.gg/vGFGP4CyUd).
 
+![the city needs your help](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3950130/extras/5e672006660a562968980b9eeda202e5.webp?t=1784303268)\
 ![soymole gif](https://clan.fastly.steamstatic.com/images//45766296/c3ca223ef5cd4a3d0d4b304137e654fd6c02db88.png)
 
 <!------------------------------------------- DIVIDER ------------------------------------------->
@@ -149,6 +153,9 @@ Answers go here (can use other markdown: code blocks, images/screenshots from st
   > Thank you so much! The best way to support me is to purchase the game and wishlist what I make next. Purchasing through Steam directly also has its benefits, as it impacts how much Valve promotes the game algorithmically (through the Discovery Queue, daily deals, etc) so you're still helping me in that way! 
 
   *(and of course, you can spread the word to your friends/family/coworkers/teachers/students/etc, which a lot of you have already been doing! It's been super fun reading your stories about it^^)*
+
+  ![points shop](https://media.discordapp.net/attachments/1510157465721766088/1548343668442665051/trading_card_capsule.png?ex=6aaaab69&is=6aa959e9&hm=99cc62375d22607be748d24d7d09937d8dd8fdce1148f1a78aa33146501ad93f&=&format=webp&quality=lossless)
+  
 </details>
 
 <!------------------------------------------- DIVIDER ------------------------------------------->
@@ -156,7 +163,7 @@ Answers go here (can use other markdown: code blocks, images/screenshots from st
 # Database Detective Release Celebration Livestream Event
 *Hosted by [Moonchild Luna](https://luna-song.carrd.co/#)*.
 
-![DBD Livestream Event thumbnail image](https://media.discordapp.net/attachments/1517626982899122437/1528514698507718937/dbd_thumb.png?ex=6aaa61fe&is=6aa9107e&hm=1c11fa73bb0b834af1db747e9748841bd3d5b019be38787975754f534d9177f5&=&format=webp&quality=lossless&width=1536&height=863)
+![DBD Livestream Event thumbnail image](https://media.discordapp.net/attachments/1517626982899122437/1528514698507718937/dbd_thumb.png?ex=6aaa61fe&is=6aa9107e&hm=1c11fa73bb0b834af1db747e9748841bd3d5b019be38787975754f534d9177f5&=&format=webp&quality=lossless&width=384&height=216)
 
 ## Watch on Twitch & YouTube!
 *(Use the links below, as you will NOT find these livestream recordings on the main social channels.)*
@@ -167,8 +174,9 @@ Answers go here (can use other markdown: code blocks, images/screenshots from st
 ## Solo Dev Q&A & Behind-the-Scenes
 An expandable FAQ/Q&A highlights from the official livestream event. *Answers include a combination of paraphrasing and direct quotes.*
 
-## Directly DBD Related Questions *(Section 1/2)*
 ![think](https://clan.fastly.steamstatic.com/images//45766296/635ad8bbd33fa675070dc329c6fc3acd90daa137.png)
+
+## Directly DBD Related Questions *(Section 1/2)*
 
 <!-- Do cases rerandomize when you restart? -->
 <details>
@@ -246,7 +254,6 @@ An expandable FAQ/Q&A highlights from the official livestream event. *Answers in
 <!------------------------------------------- DIVIDER ------------------------------------------->
 
 ## Bonus / Extra Questions *(Section 2/2)*
-![think](https://clan.fastly.steamstatic.com/images//45766296/635ad8bbd33fa675070dc329c6fc3acd90daa137.png)
 
 <!-- Were you worried about releasing a (albeit very different) desktop-style puzzle game on the same day as another? (referring to bundled game on Steam) -->
 <details>
