@@ -1,7 +1,9 @@
+![Database Detective OUT NOW image from Steam post](https://clan.fastly.steamstatic.com/images/45766296/23610b329a68dc76e37ac40b6ac91ad1c12d7cb1_960x311.png)
+
 # Database Detective Info 
 `database-detective-info` is the official GitHub repository for information about the [Database Detective: Minor Crimes Division](https://store.steampowered.com/app/3950130/Database_Detective_Minor_Crimes_Division) game.
 
-![Database Detective OUT NOW image from Steam post](https://clan.fastly.steamstatic.com/images/45766296/23610b329a68dc76e37ac40b6ac91ad1c12d7cb1_960x311.png)
+![assistant wave gif](https://clan.fastly.steamstatic.com/images//45766296/e9f60ac520d6d75b47448ba8cf1462538931b6e7.png)
 
 <!------------------------------------------- DIVIDER ------------------------------------------->
 # Jump to:
@@ -50,6 +52,8 @@ Steam Game Launch [Database Detective: Minor Crimes Division | Launch Trailer](h
 
 **The form is our preferred method (for tracking/organization)**, but you can also use the [Steam community discussions](https://steamcommunity.com/app/3950130/discussions/) pinned posts or the bug-reports & feature-requests channels in [our Discord server](https://discord.gg/vGFGP4CyUd).
 
+![soymole gif](https://clan.fastly.steamstatic.com/images//45766296/c3ca223ef5cd4a3d0d4b304137e654fd6c02db88.png)
+
 <!------------------------------------------- DIVIDER ------------------------------------------->
 
 <!-- Q&A TEMPLATE
@@ -62,94 +66,106 @@ Answers go here (can use other markdown: code blocks, images/screenshots from st
 <!------------------------------------------- DIVIDER ------------------------------------------->
 
 # General FAQ *(incl. some pre-release questions)*
+![think](https://clan.fastly.steamstatic.com/images//45766296/635ad8bbd33fa675070dc329c6fc3acd90daa137.png)
 
 <!-- Game release when? -->
 <details>
+  <summary> 
+  
+  ### Game release when? 
+  </summary>
 
-<summary> Game release when? </summary>
-
-July 17th, 2026
-
+  July 17th, 2026
 </details>
 
 <!-- But at what cost?! -->
 <details>
+  <summary> 
+    
+  ### But *at what cost*?! 
+  </summary>
 
-<summary> But at what cost?! </summary>
-
-Only $12.75 during two-week 15% launch discount, then returning to $14.99 base price. *(Prices will be localized by purchasing power.)*
-
+  Only $12.75 during two-week 15% launch discount, then returning to $14.99 base price. *(Prices will be localized by purchasing power.)*
 </details>
 
 <!-- Localization (languages/translations)? -->
 <details>
+  <summary> 
 
-<summary> Localization (languages/translations)? </summary>
+  ### Localization (languages/translations)? 
+  </summary>
 
-No plans for localization *for now*... The game has a *lot* of specific graphics and hand-drawn designs, that would be quite complicated to rework/redesign, especially for a small indie game/developer. Some cases are specifically really hard to localize since they incorporate wordplay that would be hard to translate into other languages. `(RELEASE UPDATE: Potential community contributed localization plan... We'll announce this when we are ready.)`
-
+  No plans for localization *for now*... The game has a *lot* of specific graphics and hand-drawn designs, that would be quite complicated to rework/redesign, especially for a small indie game/developer. Some cases are specifically really hard to localize since they incorporate wordplay that would be hard to translate into other languages. `(RELEASE UPDATE: Potential community contributed localization plan... We'll announce this when we are ready.)`
 </details>
 
 <!-- I know some SQL already, but my query won’t work?? -->
 <details>
+  <summary> 
+  
+  ### I know some SQL already, but my query won’t work?? 
+  </summary>
 
-<summary> I know some SQL already, but my query won’t work?? </summary>
-
-There’s actually lots of different versions/spinoffs of SQL languages! So there may be some small differences between whichever one you know and the one used in DBD, but most of it should be very similar. The game uses SQLite! *Some syntax may not be included depending on complexity/advanced (see next question response).*
-
+  There’s actually lots of different versions/spinoffs of SQL languages! So there may be some small differences between whichever one you know and the one used in DBD, but most of it should be very similar. The game uses SQLite! *Some syntax may not be included depending on complexity/advanced (see next question response).*
 </details>
 
 <!-- Will there be (advanced SQL syntax example here)? -->
 <details>
+  <summary> 
 
-<summary> Will there be (advanced SQL syntax example here)? </summary>
+  ### Will there be (advanced SQL syntax example here)? 
+  </summary>
 
-The base game is meant cover/include SQL that would be part of something more like an introductory course, so players from various backgrounds & skill levels can still have fun with this detective game! (*If* we were to design some bonus cases/challenges with advanced SQL, it would probably make more sense as a DLC/optional add-on, but not requiring advanced skills in order to complete the main game. *But no plans for that at the moment.*)
-
+  The base game is meant cover/include SQL that would be part of something more like an introductory course, so players from various backgrounds & skill levels can still have fun with this detective game! (*If* we were to design some bonus cases/challenges with advanced SQL, it would probably make more sense as a DLC/optional add-on, but not requiring advanced skills in order to complete the main game. *But no plans for that at the moment.*)
 </details>
 
 <!-- What happens if I choose the wrong suspect? -->
 <details>
+  <summary> 
 
-<summary> What happens if I choose the wrong suspect? </summary>
+ ### What happens if I choose the wrong suspect? 
+  </summary>
 
-~~If you get a single case wrong, the game will move on and you'll get a message from your supervisor. If you give additional wrong answers, you'll get the chance to submit another answer.~~ It's actually a bit complicated to explain the consequences exactly, *but maybe it's best if you don't arrest the wrong suspect, eh Detective? We ARE doing very serious work here, you know.*
-
+  ~~If you get a single case wrong, the game will move on and you'll get a message from your supervisor. If you give additional wrong answers, you'll get the chance to submit another answer.~~ It's actually a bit complicated to explain the consequences exactly, *but maybe it's best if you don't arrest the wrong suspect, eh Detective? We ARE doing very serious work here, you know.*
 </details>
 
 <!-- Can we replay cases/levels or skip to specific ones? -->
 <details>
+  <summary>
+    
+  ### Can we replay cases/levels or skip to specific ones? 
+  </summary>
 
-<summary> Can we replay cases/levels or skip to specific ones? </summary>
-
-~~In the current version of the full game, you will only unlock the ability to replay specific cases after you've completed all of the existing ten, but this may change in future updates.~~ `(RELEASE UPDATE: You can now skip to levels that you've completed at any time.)`
-
+  ~~In the current version of the full game, you will only unlock the ability to replay specific cases after you've completed all of the existing ten, but this may change in future updates.~~ `(RELEASE UPDATE: You can now skip to levels that you've completed at any time.)`
 </details>
 
 <!-- How come my friend and I have different data? -->
 <details>
+  <summary> 
+  
+  ### How come my friend and I have different data? 
+  </summary>
 
-<summary> How come my friend and I have different data? </summary>
-
-Some details/data within cases are randomly generated, including the names of the suspects and the tables themselves.
-
+  Some details/data within cases are randomly generated, including the names of the suspects and the tables themselves.
 </details>
 
 <!-- I really enjoyed the game! Is there any way for me to directly support/donate you as a solo developer (like Kofi, Patreon, or even a Steam Supporter Pack DLC, etc)? -->
 <details>
+  <summary> 
 
-<summary> I really enjoyed the game! Is there any way for me to directly support/donate you as a solo developer (like Kofi, Patreon, or even a Steam Supporter Pack DLC, etc)? </summary>
+  ### I really enjoyed the game! Is there any way for me to directly support/donate you as a solo developer *(like Kofi, Patreon, or even a Steam Supporter Pack DLC, etc)** 
+  </summary>
 
-> Thank you so much! The best way to support me is to purchase the game and wishlist what I make next. Purchasing through Steam directly also has its benefits, as it impacts how much Valve promotes the game algorithmically (through the Discovery Queue, daily deals, etc) so you're still helping me in that way! 
+  > Thank you so much! The best way to support me is to purchase the game and wishlist what I make next. Purchasing through Steam directly also has its benefits, as it impacts how much Valve promotes the game algorithmically (through the Discovery Queue, daily deals, etc) so you're still helping me in that way! 
 
-*(and of course, you can spread the word to your friends/family/coworkers/teachers/students/etc, which a lot of you have already been doing! It's been super fun reading your stories about it^^)*
-
+  *(and of course, you can spread the word to your friends/family/coworkers/teachers/students/etc, which a lot of you have already been doing! It's been super fun reading your stories about it^^)*
 </details>
 
 <!------------------------------------------- DIVIDER ------------------------------------------->
 
 # Database Detective Release Celebration Livestream Event
 *Hosted by [Moonchild Luna](https://luna-song.carrd.co/#)*.
+
+![DBD Livestream Event thumbnail image](https://media.discordapp.net/attachments/1517626982899122437/1528514698507718937/dbd_thumb.png?ex=6aaa61fe&is=6aa9107e&hm=1c11fa73bb0b834af1db747e9748841bd3d5b019be38787975754f534d9177f5&=&format=webp&quality=lossless&width=1536&height=863)
 
 ## Watch on Twitch & YouTube!
 *(Use the links below, as you will NOT find these livestream recordings on the main social channels.)*
@@ -161,64 +177,73 @@ Some details/data within cases are randomly generated, including the names of th
 An expandable FAQ/Q&A highlights from the official livestream event. *Answers include a combination of paraphrasing and direct quotes.*
 
 ## Directly DBD Related Questions *(Section 1/2)*
+![think](https://clan.fastly.steamstatic.com/images//45766296/635ad8bbd33fa675070dc329c6fc3acd90daa137.png)
 
 <!-- Do cases rerandomize when you restart? -->
 <details>
+  <summary> 
+    
+  ### Do cases rerandomize when you restart? 
+  </summary>
 
-<summary> Do cases rerandomize when you restart? </summary>
+  Yes, they do rerandomize. The data itself is refreshed to a different set of data. But the queries you wrote should still work, you just need to rerun them again. The point of that was so you're not just relying on a specific answer, like "X and Y are the people responsible". You actually have to work through the case.
 
-Yes, they do rerandomize. The data itself is refreshed to a different set of data. But the queries you wrote should still work, you just need to rerun them again. The point of that was so you're not just relying on a specific answer, like "X and Y are the people responsible". You actually have to work through the case.
-
-For example, the help that people can give is only going to be teaching you how to do it or sharing queries. But it won't be directly skipping to giving an answer key kind of thing. Since the point of the game is to use SQL, for you to experience using SQL and running queries.
-
+  For example, the help that people can give is only going to be teaching you how to do it or sharing queries. But it won't be directly skipping to giving an answer key kind of thing. Since the point of the game is to use SQL, for you to experience using SQL and running queries.
 </details>
 
 <!-- Will you implement any old style virus like the one with the letters falling or windows misbehaving (like the silly software Desktop Goose) that will make a task more difficult? -->
 <details>
+  <summary> 
 
-<summary> Will you implement any old style virus like the one with the letters falling or windows misbehaving (like the silly software Desktop Goose) that will make a task more difficult? </summary>
+  ### Will you implement any old style virus like the one with the letters falling or windows misbehaving (like the silly software Desktop Goose) that will make a task more difficult? 
+  </summary>
 
-That would be fun. Like something that messes up your query. I think that would be more annoying than anything. Because this game isn’t really mechanically goofy like that. It is kind of goofy, but not in that way. You know what’s funny? I got a comment once that said, “I just want to do SQL. I don’t want to do detective work. There’s too much detective work in this game.” So I don’t want to make things frustrating.
+  That would be fun. Like something that messes up your query. I think that would be more annoying than anything. Because this game isn’t really mechanically goofy like that. It is kind of goofy, but not in that way. You know what’s funny? I got a comment once that said, “I just want to do SQL. I don’t want to do detective work. There’s too much detective work in this game.” So I don’t want to make things frustrating.
 </details>
 
 <!-- Can we edit saved tables queries? Like, just EDIT them. -->
 <details>
+  <summary> 
 
-<summary> Can we edit saved tables queries? Like, just EDIT them. </summary>
+  ### Can we edit saved tables queries? Like, just EDIT them. 
+  </summary>
 
-With something like ALTER on a result that was saved as a table? You can’t really do that, because it’s basically just saving a result. But you can just adjust your query create a new result table.
-
+  With something like ALTER on a result that was saved as a table? You can’t really do that, because it’s basically just saving a result. But you can just adjust your query create a new result table.
 </details>
 
 <!-- The credits implied this but just wanted to confirm, did you voice the supervisor yourself? He's incredible. -->
 <details>
+  <summary> 
 
-<summary> The credits implied this but just wanted to confirm, did you voice the supervisor yourself? He's incredible. </summary>
+  ### The credits implied this but just wanted to confirm, did you voice the supervisor yourself? He's incredible. 
+  </summary>
 
-Thomas: No, it’s not me, unfortunately. That was a lie.
-Luna: Yeah, that was a lie. It was actually me, the unpaid intern.
+  Thomas: No, it’s not me, unfortunately. That was a lie.
+  Luna: Yeah, that was a lie. It was actually me, the unpaid intern.
 
-Yes, it was indeed Thomas himself. 
-
+  *Yes, it was indeed Thomas himself.*
 </details>
 
 <!--How much art outsourcing was there?-->
 <details>
+  <summary> 
 
-<summary> How much art outsourcing was there? </summary>
+  ### How much art outsourcing was there? 
+  </summary>
 
-There is no art outsourcing, except for just the inclusion/featuring of fanart on one specific website, and two icon assets from Windows 95, although some animation was added to them for the game. 
+  There is no art outsourcing, except for just the inclusion/featuring of fanart on one specific website, and two icon assets from Windows 95, although some animation was added to them for the game. 
 
-In the Moleman fans section, that was all just for this page, where I compiled fan art just for Detective Moleman. This is more like a fun little reference thing, not for the base game.
+  In the Moleman Fans section, that was all just for this page, where I compiled fan art just for Detective Moleman. This is more like a fun little reference thing, not for the base game.
 
-I will say that the only two assets that I did not draw are these two icons right here. The web browser and the music player. These are from the Windows 95 icon set that I just copied and pasted. They haven't gone after me yet. I hope they don't. But I did do the animation where, when you hover over it, it switches icons.
-
+  I will say that the only two assets that I did not draw are these two icons right here. The web browser and the music player. These are from the Windows 95 icon set that I just copied and pasted. They haven't gone after me yet. I hope they don't. But I did do the animation where, when you hover over it, it switches icons.
 </details>
 
 <!-- Were there any specific challenges when making the game that stuck out for you? -->
 <details>
+  <summary> 
 
-<summary> Were there any specific challenges when making the game that stuck out for you? </summary>
+  ### Were there any specific challenges when making the game that stuck out for you? 
+  </summary>
 
 > There were a lot. You can get more specific, but drawing takes a long time. There were challenges in numerous ways. I think the hardest thing was just keeping focused. I'd been doing this part-time. There was a time when some of the cases were done, but not the book and not the parser. Because there's the whole SQL parsing that needed to be done. I was just thinking, "Oh, there's still like a year ahead." I think the programming itself was actually relatively easy, since I'm a software engineer by profession. A lot of it was the parser. 
 
@@ -231,12 +256,12 @@ I will say that the only two assets that I did not draw are these two icons righ
 > This is also one of the reasons why localization is going to be a pain, because there are a lot of strings that I have to extract. There's a lot of work involved in making sure all those messages are clear. Especially because when someone gets an error, you want them to understand what went wrong and how they can fix it. The goal is not just to tell someone they made a mistake, but to help them learn from it. That's kind of the whole philosophy behind the system.
 
 > It's not just a game mechanic. It's also part of teaching SQL. Because if you're learning, a generic error message isn't very useful. You need something that points you in the right direction, and that was one of the bigger challenges with making this. Balancing the accuracy of SQL with making it approachable. I had to decide what parts were important to include, and what parts would just get in the way.
-
 </details>
 
 <!------------------------------------------- DIVIDER ------------------------------------------->
 
 ## Bonus / Extra Questions *(Section 2/2)*
+![think](https://clan.fastly.steamstatic.com/images//45766296/635ad8bbd33fa675070dc329c6fc3acd90daa137.png)
 
 <!-- Were you worried about releasing a (albeit very different) desktop-style puzzle game on the same day as another? (referring to bundled game on Steam) -->
 <details>
