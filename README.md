@@ -108,11 +108,12 @@ It's not just a game mechanic. It's also part of teaching SQL. Because if you're
 <summary> Were you worried about releasing a (albeit very different) desktop-style puzzle game on the same day as another? (referring to bundled game on Steam) </summary>
 
 ### Were you worried about releasing a (albeit very different) desktop-style puzzle game on the same day as another? (referring to bundled game on Steam)
-Not really, honestly. I don’t really view other indie games as competition, and I don’t think that one of our games would really overshadow the other. We were actually in talks of doing a bundle before their release date got announced, so we were already in touch.
 
-What’s funny, though, is that the date was very specific. The general idea is that you don’t want to release your game during Next Fest. If your game is upcoming, it’s basically free publicity, so there’s no reason not to have your game be part of Next Fest. Your game has to be upcoming and not already released. 
+> Not really, honestly. I don’t really view other indie games as competition, and I don’t think that one of our games would really overshadow the other. We were actually in talks of doing a bundle before their release date got announced, so we were already in touch.
 
-Then it just so happened that we had basically the same exact plan, which was a funny coincidence. And there were also a lot of detective games coming out that week, which was crazy. There were like five detective games released that week.
+> What’s funny, though, is that the date was very specific. The general idea is that you don’t want to release your game during Next Fest. If your game is upcoming, it’s basically free publicity, so there’s no reason not to have your game be part of Next Fest. Your game has to be upcoming and not already released. 
+
+> Then it just so happened that we had basically the same exact plan, which was a funny coincidence. And there were also a lot of detective games coming out that week, which was crazy. There were like five detective games released that week.
 
 </details>
 
@@ -122,9 +123,9 @@ Then it just so happened that we had basically the same exact plan, which was a 
 
 ### How many emails have you gotten from the "HelpMe" website?
 
-A lot of emails. It’s funny, because I’m going to make some short social media content about this, which was kind of the intention. I remember someone subscribed me to the Taco Bell newsletter. Someone sent me a photo of their face, which I thought was funny. It was just a weird little thing.
+> A lot of emails. It’s funny, because I’m going to make some short social media content about this, which was kind of the intention. I remember someone subscribed me to the Taco Bell newsletter. Someone sent me a photo of their face, which I thought was funny. It was just a weird little thing.
 
-You know what’s funny? I’ve talked to Luna about this. That email used to be my phone number. I actually had my phone number attached to it. The idea is that it feels more personal, which makes it more fun. But yeah, you could dox me very easily. 
+> You know what’s funny? I’ve talked to Luna about this. That email used to be my phone number. I actually had my phone number attached to it. The idea is that it feels more personal, which makes it more fun. But yeah, you could dox me very easily. 
 
 *Sorry to anyone who would've wanted to call Thomas /j*
 
@@ -132,83 +133,129 @@ You know what’s funny? I’ve talked to Luna about this. That email used to be
 
 <details>
 
-<summary> Question </summary>
+<summary> Does Database Detectives take place in the same universe as Jay's Walkin'? (Thomas's previous game, available on Steam for free) </summary>
 
-### Question
+### Does Database Detectives take place in the same universe as Jay's Walkin'? (Thomas's previous game, available on Steam for free)
 
-Answer
-
-</details>
-
-<details>
-
-<summary> Question </summary>
-
-### Question
-
-Answer
+*Short answer: Yes. Long answer: Watch the livestream recording for the whole backstory/origins/etc.*
 
 </details>
 
 <details>
 
-<summary> Question </summary>
+<summary> As follow-up to the first question, do your actions as the player character in Jay's Walkin' constitute minor crimes? </summary>
 
 ### Question
 
-Answer
+> 100%.
 
 </details>
 
 <details>
 
-<summary> Question </summary>
+<summary> Does Moonchild Luna es "hijo de la luna" in Spanish? </summary>
 
 ### Question
 
-Answer
+*Maybe? I don't really know Spanish, so I'm unsure if that translates to "son/child/offspring of the moon", but the reason behind the "moonchild/moonkid" part of my name refers directly to [my story/lore of being a young moon](https://www.youtube.com/watch?v=0JPNlucxbik). As in, it's not that my parent is the (Earth's) moon, but rather that I myself am a moon that is younger than other moons. Although, masculine/feminine word language-wise ("hijo"), it works either way, as my character is meant to be sort of genderless/genderfluid as a non-human. (I'm Canadian, so I'm just basing my Latin-root-language logic off of what I know from French.)*
+
+</details>
+
+## General FAQ (incl. some pre-release questions)
+
+<details>
+
+<summary> Game release when? </summary>
+
+### Game release when?
+
+July 17th, 2026
 
 </details>
 
 <details>
 
-<summary> Question </summary>
+<summary> But at what cost?! </summary>
 
-### Question
+### But at what cost?!
 
-Answer
-
-</details>
-
-<details>
-
-<summary> Question </summary>
-
-### Question
-
-Answer
+Only $12.75 during two-week 15% launch discount, then returning to $14.99 base price. *(Prices will be localized by purchasing power.)*
 
 </details>
 
 <details>
 
-<summary> Question </summary>
+<summary> Localization (languages/translations)? </summary>
 
-### Question
+### Localization (languages/translations)?
 
-Answer
+No plans for localization *for now*... The game has a *lot* of specific graphics and hand-drawn designs, that would be quite complicated to rework/redesign, especially for a small indie game/developer. Some cases are specifically really hard to localize since they incorporate wordplay that would be hard to translate into other languages. `(RELEASE UPDATE: Potential community contributed localization plan... We'll announce this when we are ready.)`
 
 </details>
 
 <details>
 
-<summary> Question </summary>
+<summary> I know some SQL already, but my query won’t work?? </summary>
 
-### Question
+### I know some SQL already, but my query won’t work??
 
-Answer
+There’s actually lots of different versions/spinoffs of SQL languages! So there may be some small differences between whichever one you know and the one used in DBD, but most of it should be very similar. The game uses SQLite! *Some syntax may not be included depending on complexity/advanced (see next question response).*
 
 </details>
+
+<details>
+
+<summary> Will there be (advanced SQL syntax example here)? </summary>
+
+### Will there be (advanced SQL syntax example here)?
+
+The base game is meant cover/include SQL that would be part of something more like an introductory course, so players from various backgrounds & skill levels can still have fun with this detective game! (*If* we were to design some bonus cases/challenges with advanced SQL, it would probably make more sense as a DLC/optional add-on, but not requiring advanced skills in order to complete the main game. *But no plans for that at the moment.*)
+
+</details>
+
+<details>
+
+<summary> What happens if I choose the wrong suspect? </summary>
+
+### What happens if I choose the wrong suspect?
+
+~~If you get a single case wrong, the game will move on and you'll get a message from your supervisor. If you give additional wrong answers, you'll get the chance to submit another answer.~~ It's actually a bit complicated to explain the consequences exactly, *but maybe it's best if you don't arrest the wrong suspect, eh Detective? We ARE doing very serious work here, you know.*
+
+</details>
+
+<details>
+
+<summary> Can we replay cases/levels or skip to specific ones? </summary>
+
+### Can we replay cases/levels or skip to specific ones?
+
+~~In the current version of the full game, you will only unlock the ability to replay specific cases after you've completed all of the existing ten, but this may change in future updates.~~ `(RELEASE UPDATE: You can now skip to levels that you've completed at any time.)`
+
+</details>
+
+<details>
+
+<summary> How come my friend and I have different data? </summary>
+
+### How come my friend and I have different data?
+
+Some details/data within cases are randomly generated, including the names of the suspects and the tables themselves.
+
+</details>
+
+<details>
+
+<summary> I really enjoyed the game! Is there any way for me to directly support/donate you as a solo developer (like Kofi, Patreon, or even a Steam Supporter Pack DLC, etc)? </summary>
+
+### I really enjoyed the game! Is there any way for me to directly support/donate you as a solo developer (like Kofi, Patreon, or even a Steam Supporter Pack DLC, etc)?
+
+> Thank you so much! The best way to support me is to purchase the game and wishlist what I make next. Purchasing through Steam directly also has its benefits, as it impacts how much Valve promotes the game algorithmically (through the Discovery Queue, daily deals, etc) so you're still helping me in that way! 
+
+*(and of course, you can spread the word to your friends/family/coworkers/teachers/students/etc, which a lot of you have already been doing! :o7:  It's been super fun reading your stories about it^^)*
+
+</details>
+
+
 
 
 
