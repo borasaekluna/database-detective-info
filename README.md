@@ -1,6 +1,7 @@
 # Database Detective Info 
 `database-detective-info` is the official GitHub repository for information about the [Database Detective: Minor Crimes Division](https://store.steampowered.com/app/3950130/Database_Detective_Minor_Crimes_Division) game.
 
+<!------------------------------------------- DIVIDER ------------------------------------------->
 # Quick Links
 
 ### Socials
@@ -23,7 +24,7 @@ Steam Game Launch [Database Detective: Minor Crimes Division | Launch Trailer](h
 
 **The form is our preferred method (for tracking/organization)**, but you can also use the [Steam community discussions](https://steamcommunity.com/app/3950130/discussions/) pinned posts or the bug-reports & feature-requests channels in [our Discord server](https://discord.gg/vGFGP4CyUd).
 
-
+<!------------------------------------------- DIVIDER ------------------------------------------->
 # Jump to:
 **[General FAQ *(incl. some pre-release questions)*](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#general-faq-incl-some-pre-release-questions)**
 
@@ -33,6 +34,8 @@ Steam Game Launch [Database Detective: Minor Crimes Division | Launch Trailer](h
 
 - [Bonus / Extra Questions](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#bonus--extra-questions)
 
+<!------------------------------------------- DIVIDER ------------------------------------------->
+
 <!-- Q&A TEMPLATE
 <details>
 <summary> Question </summary>
@@ -40,8 +43,11 @@ Answers go here (can use other markdown: code blocks, images/screenshots from st
 </details>
 -->
 
+<!------------------------------------------- DIVIDER ------------------------------------------->
+
 ## General FAQ *(incl. some pre-release questions)*
 
+<!-- Game release when? -->
 <details>
 
 <summary> Game release when? </summary>
@@ -50,81 +56,73 @@ July 17th, 2026
 
 </details>
 
+<!-- But at what cost?! -->
 <details>
 
 <summary> But at what cost?! </summary>
-
-### But at what cost?!
 
 Only $12.75 during two-week 15% launch discount, then returning to $14.99 base price. *(Prices will be localized by purchasing power.)*
 
 </details>
 
+<!-- Localization (languages/translations)? -->
 <details>
 
 <summary> Localization (languages/translations)? </summary>
-
-### Localization (languages/translations)?
 
 No plans for localization *for now*... The game has a *lot* of specific graphics and hand-drawn designs, that would be quite complicated to rework/redesign, especially for a small indie game/developer. Some cases are specifically really hard to localize since they incorporate wordplay that would be hard to translate into other languages. `(RELEASE UPDATE: Potential community contributed localization plan... We'll announce this when we are ready.)`
 
 </details>
 
+<!-- I know some SQL already, but my query won’t work?? -->
 <details>
 
 <summary> I know some SQL already, but my query won’t work?? </summary>
-
-### I know some SQL already, but my query won’t work??
 
 There’s actually lots of different versions/spinoffs of SQL languages! So there may be some small differences between whichever one you know and the one used in DBD, but most of it should be very similar. The game uses SQLite! *Some syntax may not be included depending on complexity/advanced (see next question response).*
 
 </details>
 
+<!-- Will there be (advanced SQL syntax example here)? -->
 <details>
 
 <summary> Will there be (advanced SQL syntax example here)? </summary>
-
-### Will there be (advanced SQL syntax example here)?
 
 The base game is meant cover/include SQL that would be part of something more like an introductory course, so players from various backgrounds & skill levels can still have fun with this detective game! (*If* we were to design some bonus cases/challenges with advanced SQL, it would probably make more sense as a DLC/optional add-on, but not requiring advanced skills in order to complete the main game. *But no plans for that at the moment.*)
 
 </details>
 
+<!-- What happens if I choose the wrong suspect? -->
 <details>
 
 <summary> What happens if I choose the wrong suspect? </summary>
-
-### What happens if I choose the wrong suspect?
 
 ~~If you get a single case wrong, the game will move on and you'll get a message from your supervisor. If you give additional wrong answers, you'll get the chance to submit another answer.~~ It's actually a bit complicated to explain the consequences exactly, *but maybe it's best if you don't arrest the wrong suspect, eh Detective? We ARE doing very serious work here, you know.*
 
 </details>
 
+<!-- Can we replay cases/levels or skip to specific ones? -->
 <details>
 
 <summary> Can we replay cases/levels or skip to specific ones? </summary>
-
-### Can we replay cases/levels or skip to specific ones?
 
 ~~In the current version of the full game, you will only unlock the ability to replay specific cases after you've completed all of the existing ten, but this may change in future updates.~~ `(RELEASE UPDATE: You can now skip to levels that you've completed at any time.)`
 
 </details>
 
+<!-- How come my friend and I have different data? -->
 <details>
 
 <summary> How come my friend and I have different data? </summary>
-
-### How come my friend and I have different data?
 
 Some details/data within cases are randomly generated, including the names of the suspects and the tables themselves.
 
 </details>
 
+<!-- I really enjoyed the game! Is there any way for me to directly support/donate you as a solo developer (like Kofi, Patreon, or even a Steam Supporter Pack DLC, etc)? -->
 <details>
 
 <summary> I really enjoyed the game! Is there any way for me to directly support/donate you as a solo developer (like Kofi, Patreon, or even a Steam Supporter Pack DLC, etc)? </summary>
-
-### I really enjoyed the game! Is there any way for me to directly support/donate you as a solo developer (like Kofi, Patreon, or even a Steam Supporter Pack DLC, etc)?
 
 > Thank you so much! The best way to support me is to purchase the game and wishlist what I make next. Purchasing through Steam directly also has its benefits, as it impacts how much Valve promotes the game algorithmically (through the Discovery Queue, daily deals, etc) so you're still helping me in that way! 
 
@@ -132,6 +130,7 @@ Some details/data within cases are randomly generated, including the names of th
 
 </details>
 
+<!------------------------------------------- DIVIDER ------------------------------------------->
 
 # Database Detective Release Celebration Livestream Event
 *Hosted by [Moonchild Luna](https://luna-song.carrd.co/#)*.
@@ -220,8 +219,11 @@ It's not just a game mechanic. It's also part of teaching SQL. Because if you're
 
 </details>
 
+<!------------------------------------------- DIVIDER ------------------------------------------->
+
 ## Bonus / Extra Questions *(Questions Part 2/2)*
 
+<!-- Were you worried about releasing a (albeit very different) desktop-style puzzle game on the same day as another? (referring to bundled game on Steam) -->
 <details>
 
 <summary> Were you worried about releasing a (albeit very different) desktop-style puzzle game on the same day as another? (referring to bundled game on Steam) </summary>
@@ -234,6 +236,7 @@ It's not just a game mechanic. It's also part of teaching SQL. Because if you're
 
 </details>
 
+<!-- How many emails have you gotten from the "HelpMe" website? -->
 <details>
 
 <summary> How many emails have you gotten from the "HelpMe" website? </summary>
@@ -246,6 +249,7 @@ It's not just a game mechanic. It's also part of teaching SQL. Because if you're
 
 </details>
 
+<!-- Does Database Detectives take place in the same universe as Jay's Walkin'? -->
 <details>
 
 <summary> Does Database Detectives take place in the same universe as Jay's Walkin'? (Thomas's previous game, available on Steam for free) </summary>
@@ -254,6 +258,7 @@ It's not just a game mechanic. It's also part of teaching SQL. Because if you're
 
 </details>
 
+<!-- As follow-up to the first question, do your actions as the player character in Jay's Walkin' constitute minor crimes? -->
 <details>
 
 <summary> As follow-up to the first question, do your actions as the player character in Jay's Walkin' constitute minor crimes? </summary>
@@ -262,6 +267,7 @@ It's not just a game mechanic. It's also part of teaching SQL. Because if you're
 
 </details>
 
+<!-- Does Moonchild Luna es "hijo de la luna" in Spanish? -->
 <details>
 
 <summary> Does Moonchild Luna es "hijo de la luna" in Spanish? </summary>
@@ -270,7 +276,7 @@ It's not just a game mechanic. It's also part of teaching SQL. Because if you're
 
 </details>
 
-
+<!------------------------------------------- DIVIDER ------------------------------------------->
 
 
 
