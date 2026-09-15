@@ -1,33 +1,41 @@
 # Database Detective Info 
 `database-detective-info` is the official GitHub repository for information about the [Database Detective: Minor Crimes Division](https://store.steampowered.com/app/3950130/Database_Detective_Minor_Crimes_Division) game.
 
-**Instagram** [https://www.instagram.com/databasedetective/](https://www.instagram.com/databasedetective/)
-**YouTube** [https://www.youtube.com/@thomashsuster](https://www.youtube.com/@thomashsuster)
-**TikTok** [https://www.tiktok.com/@database.detective](https://www.tiktok.com/@database.detective)
+## Quick Links
 
-[Database Detective Trailer](https://youtu.be/LuWbSgne2bw?si=fAeTA5fFkkWauqT-)
-[Database Detective on Steam](https://store.steampowered.com/app/3950130/Database_Detective_Minor_Crimes_Division)
+### Socials
+**Instagram** [https://www.instagram.com/databasedetective/](https://www.instagram.com/databasedetective/)\
+**YouTube** [https://www.youtube.com/@thomashsuster](https://www.youtube.com/@thomashsuster)\
+**TikTok** [https://www.tiktok.com/@database.detective](https://www.tiktok.com/@database.detective)\
+**Discord** [https://discord.gg/vGFGP4CyUd](https://discord.gg/vGFGP4CyUd)
 
-Solo Dev Q&A & Behind-the-Scenes (Database Detective Release Celebration)
-Available to watch on Twitch & YouTube!
-Twitch [https://www.twitch.tv/moonchildofthenorthforest](https://youtube.com/playlist?list=PLUqUtyhvpF_4&si=dd_6gbnHriuDDRDu) 
-*(full livestream VOD)*
-YouTube [https://www.youtube.com/playlist?list=PLUqUtyhvpF_4](https://www.youtube.com/playlist?list=PLUqUtyhvpF_4)
-*(playlist of 15-minute segmented videos from the full VOD)*
+**Steam** [Community Discussions Page](https://steamcommunity.com/app/3950130/discussions/)\
+**Steam** [Game/Store Page](https://store.steampowered.com/app/3950130/Database_Detective_Minor_Crimes_Division)\
+**Game Trailer** [Database Detective Trailer on YouTube](https://youtu.be/LuWbSgne2bw?si=fAeTA5fFkkWauqT-)
+
+### Solo Dev Q&A & Behind-the-Scenes *(Database Detective Release Celebration Livestream Event)*
+*Hosted by [Moonchild Luna](https://luna-song.carrd.co/#)*.
+Available to watch on Twitch & YouTube!\
+*(Use the links below, as you will NOT find these livestream recordings on the main social channels.)*
+
+**Twitch** [Twitch VOD](https://youtube.com/playlist?list=PLUqUtyhvpF_4&si=dd_6gbnHriuDDRDu) *(full livestream VOD)*\
+**YouTube** [YouTube Playlist](https://www.youtube.com/playlist?list=PLUqUtyhvpF_4) *(playlist of 15-minute segmented videos from the full VOD)*
+
+### Feedback / Bug Reports / Feature Requests
+[Known Issues](https://steamcommunity.com/app/3950130/discussions/0/580551263528204084/) *(known issues list on Steam community discussions pinned post)*\
+[Multi-Purpose Feedback Form](https://forms.gle/jzoHDEPSmvUTxZP78) *(bug reports/feature requests/other suggestions/etc)*
+
+**The form is our preferred method (for tracking/organization)**, but you can also use the [Steam community discussions](https://steamcommunity.com/app/3950130/discussions/) pinned posts or the bug-reports & feature-requests channels in [our Discord server](https://discord.gg/vGFGP4CyUd).
+
 
 ## Jump to:
-[General FAQ (incl. some pre-release questions)](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#general-faq-incl-some-pre-release-questions)
+**[General FAQ *(incl. some pre-release questions)*](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#general-faq-incl-some-pre-release-questions)**
 
-[Solo Dev Q&A & Behind-the-Scenes (Database Detective Release Celebration) Highlights](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#solo-dev-qa--behind-the-scenes-database-detective-release-celebration-highlights)
+**[Solo Dev Q&A & Behind-the-Scenes *(Database Detective Release Celebration Livestream Event)* Highlights](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#solo-dev-qa--behind-the-scenes-database-detective-release-celebration-highlights)**
 
-[Directly DBD Related](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#directly-dbd-related)
+- [Directly DBD Related](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#directly-dbd-related)
 
-[Bonus / Extra Questions](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#bonus--extra-questions)
-
-We've created our multi-purpose Feedback Form (bug reports/feature requests/other suggestions/etc) here: 
-[https://forms.gle/jzoHDEPSmvUTxZP78](https://forms.gle/jzoHDEPSmvUTxZP78)
-This has our most preferred #1 method (most organized/efficient), so please do prioritize the form (instead of Steam/Discord) if you can~
-
+- [Bonus / Extra Questions](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#bonus--extra-questions)
 
 <!-- Q&A TEMPLATE
 <details>
@@ -139,8 +147,7 @@ Some details/data within cases are randomly generated, including the names of th
 ## Solo Dev Q&A & Behind-the-Scenes (Database Detective Release Celebration) Highlights
 An expandable FAQ/Q&A highlights from the official livestream event. Answers include a combination of paraphrasing and direct quotes.
 
-Watch the full livestream VOD on Twitch at [https://www.twitch.tv/moonchildofthenorthforest](https://www.twitch.tv/videos/2824080943)
-or on YouTube at [https://www.youtube.com/playlist?list=PLUqUtyhvpF_4](https://www.youtube.com/playlist?list=PLUqUtyhvpF_4)
+Watch the full livestream VOD on [Twitch](https://www.twitch.tv/videos/2824080943) or [YouTube](https://www.youtube.com/playlist?list=PLUqUtyhvpF_4)
 
 ## Directly DBD Related
 
