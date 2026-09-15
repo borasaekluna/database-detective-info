@@ -2,6 +2,22 @@
 `database-detective-info` is the official GitHub repository for information about the [Database Detective: Minor Crimes Division](https://store.steampowered.com/app/3950130/Database_Detective_Minor_Crimes_Division) game.
 
 <!------------------------------------------- DIVIDER ------------------------------------------->
+# Jump to:
+**Quick Links - external links**
+
+**Quick Links (Socials)**
+**Quick Links (Community/Discussion)**
+**Quick Links (YouTube Trailers)**
+**Quick Links (Feedback/Bug Reports/Feature Requests)**
+
+**FAQ/Q&A - info within this page**
+**[General FAQ *(incl. some pre-release questions)*](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#general-faq-incl-some-pre-release-questions)**
+
+**[Solo Dev Q&A & Behind-the-Scenes *(Database Detective Release Celebration Livestream Event)* Highlights](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#solo-dev-qa--behind-the-scenes-database-detective-release-celebration-highlights)**
+- [Directly DBD Related Questions *(Section 1/2)*](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#directly-dbd-related)
+- [Bonus / Extra Questions *(Section 2/2)*](https://github.com/borasaekluna/database-detective-info/edit/rough_01/README.md#bonus--extra-questions-section-22)
+
+<!------------------------------------------- DIVIDER ------------------------------------------->
 # Quick Links
 
 ### Socials
@@ -23,16 +39,6 @@ Steam Game Launch [Database Detective: Minor Crimes Division | Launch Trailer](h
 [Multi-Purpose Feedback Form](https://forms.gle/jzoHDEPSmvUTxZP78) *(bug reports/feature requests/other suggestions/etc)*
 
 **The form is our preferred method (for tracking/organization)**, but you can also use the [Steam community discussions](https://steamcommunity.com/app/3950130/discussions/) pinned posts or the bug-reports & feature-requests channels in [our Discord server](https://discord.gg/vGFGP4CyUd).
-
-<!------------------------------------------- DIVIDER ------------------------------------------->
-# Jump to:
-**[General FAQ *(incl. some pre-release questions)*](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#general-faq-incl-some-pre-release-questions)**
-
-**[Solo Dev Q&A & Behind-the-Scenes *(Database Detective Release Celebration Livestream Event)* Highlights](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#solo-dev-qa--behind-the-scenes-database-detective-release-celebration-highlights)**
-
-- [Directly DBD Related](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#directly-dbd-related)
-
-- [Bonus / Extra Questions](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#bonus--extra-questions)
 
 <!------------------------------------------- DIVIDER ------------------------------------------->
 
@@ -135,7 +141,7 @@ Some details/data within cases are randomly generated, including the names of th
 # Database Detective Release Celebration Livestream Event
 *Hosted by [Moonchild Luna](https://luna-song.carrd.co/#)*.
 
-## Available to watch on Twitch & YouTube!\
+## Available to watch on Twitch & YouTube!
 *(Use the links below, as you will NOT find these livestream recordings on the main social channels.)*
 
 **Twitch** [Twitch VOD](https://youtube.com/playlist?list=PLUqUtyhvpF_4&si=dd_6gbnHriuDDRDu) *(full livestream VOD)*\
@@ -144,7 +150,7 @@ Some details/data within cases are randomly generated, including the names of th
 ## Solo Dev Q&A & Behind-the-Scenes
 An expandable FAQ/Q&A highlights from the official livestream event. *Answers include a combination of paraphrasing and direct quotes.*
 
-## Directly DBD Related *(Questions Part 1/2)*
+## Directly DBD Related Questions *(Section 1/2)*
 
 <details>
 
@@ -221,7 +227,7 @@ It's not just a game mechanic. It's also part of teaching SQL. Because if you're
 
 <!------------------------------------------- DIVIDER ------------------------------------------->
 
-## Bonus / Extra Questions *(Questions Part 2/2)*
+## Bonus / Extra Questions *(Section 2/2)*
 
 <!-- Were you worried about releasing a (albeit very different) desktop-style puzzle game on the same day as another? (referring to bundled game on Steam) -->
 <details>
