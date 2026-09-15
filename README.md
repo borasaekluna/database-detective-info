@@ -1,6 +1,8 @@
 # Database Detective Info 
 `database-detective-info` is the official GitHub repository for information about the [Database Detective: Minor Crimes Division](https://store.steampowered.com/app/3950130/Database_Detective_Minor_Crimes_Division) game.
 
+![Database Detective OUT NOW image from Steam post](https://clan.fastly.steamstatic.com/images/45766296/23610b329a68dc76e37ac40b6ac91ad1c12d7cb1_960x311.png)
+
 <!------------------------------------------- DIVIDER ------------------------------------------->
 # Jump to:
 ## Quick Links - *(lists of external links)*
@@ -18,6 +20,11 @@
 - [Bonus / Extra Questions *(Section 2/2)*](https://github.com/borasaekluna/database-detective-info/edit/rough_01/README.md#bonus--extra-questions-section-22)
 
 <!------------------------------------------- DIVIDER ------------------------------------------->
+
+![Database Detective header image from Steam page](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3950130/ed5315c85ccaeaa8deb05aa6a91fc08e245d1e05/header.jpg?t=1784303268)
+
+<!------------------------------------------- DIVIDER ------------------------------------------->
+
 # Quick Links
 
 ### Socials
@@ -25,9 +32,12 @@
 **YouTube** [https://www.youtube.com/@thomashsuster](https://www.youtube.com/@thomashsuster)\
 **TikTok** [https://www.tiktok.com/@database.detective](https://www.tiktok.com/@database.detective)\
 **Steam Page** [Database Detective: Minor Crimes Division game on Steam](https://store.steampowered.com/app/3950130/Database_Detective_Minor_Crimes_Division)
+
 ### Community
 **Discord** [Join our Discord server!](https://discord.gg/vGFGP4CyUd)\
 **Steam** [Check out the Community Discussions threads!](https://steamcommunity.com/app/3950130/discussions/)
+
+![Database Detective Discord image from Steam post](https://clan.fastly.steamstatic.com/images/45766296/e39a36bb926cc3906ebc7add6554f162af0f6e6b_960x311.png)
 
 ### YouTube Trailers
 Game Trailer [DATABASE DETECTIVE TRAILER](https://youtu.be/LuWbSgne2bw?si=fAeTA5fFkkWauqT-)\
@@ -152,11 +162,10 @@ An expandable FAQ/Q&A highlights from the official livestream event. *Answers in
 
 ## Directly DBD Related Questions *(Section 1/2)*
 
+<!-- Do cases rerandomize when you restart? -->
 <details>
 
 <summary> Do cases rerandomize when you restart? </summary>
-
-### Do cases rerandomize when you restart?
 
 Yes, they do rerandomize. The data itself is refreshed to a different set of data. But the queries you wrote should still work, you just need to rerun them again. The point of that was so you're not just relying on a specific answer, like "X and Y are the people responsible". You actually have to work through the case.
 
@@ -211,17 +220,17 @@ I will say that the only two assets that I did not draw are these two icons righ
 
 <summary> Were there any specific challenges when making the game that stuck out for you? </summary>
 
-There were a lot. You can get more specific, but drawing takes a long time. There were challenges in numerous ways. I think the hardest thing was just keeping focused. I'd been doing this part-time. There was a time when some of the cases were done, but not the book and not the parser. Because there's the whole SQL parsing that needed to be done. I was just thinking, "Oh, there's still like a year ahead." I think the programming itself was actually relatively easy, since I'm a software engineer by profession. A lot of it was the parser. 
+> There were a lot. You can get more specific, but drawing takes a long time. There were challenges in numerous ways. I think the hardest thing was just keeping focused. I'd been doing this part-time. There was a time when some of the cases were done, but not the book and not the parser. Because there's the whole SQL parsing that needed to be done. I was just thinking, "Oh, there's still like a year ahead." I think the programming itself was actually relatively easy, since I'm a software engineer by profession. A lot of it was the parser. 
 
-The parser was probably the most difficult thing I had to write. That one's specifically just for the error messaging, it will let you know where the SQL goes wrong. Everything else was pretty straightforward. Even that is just a pain because of how much syntax it needs to support. And it still doesn't support a lot.
+> The parser was probably the most difficult thing I had to write. That one's specifically just for the error messaging, it will let you know where the SQL goes wrong. Everything else was pretty straightforward. Even that is just a pain because of how much syntax it needs to support. And it still doesn't support a lot.
 
-Whenever you type a query in the game and click submit, it goes through this parser, then the parser checks if what you wrote is valid SQL. The specific version of SQL backend that actually runs your query is SQLite. (That's the engine that stores the data and gives you responses.) This is something separate.
+> Whenever you type a query in the game and click submit, it goes through this parser, then the parser checks if what you wrote is valid SQL. The specific version of SQL backend that actually runs your query is SQLite. (That's the engine that stores the data and gives you responses.) This is something separate.
 
-SQLite doesn't give you very good error messages. Sometimes if you write something wrong, it just says "syntax error." And you're like, "Okay, where did I go wrong?" So the idea behind this parser was that it would give you very specific error messages, so you know exactly where your query went wrong.
+> SQLite doesn't give you very good error messages. Sometimes if you write something wrong, it just says "syntax error." And you're like, "Okay, where did I go wrong?" So the idea behind this parser was that it would give you very specific error messages, so you know exactly where your query went wrong.
 
-This is also one of the reasons why localization is going to be a pain, because there are a lot of strings that I have to extract. There's a lot of work involved in making sure all those messages are clear. Especially because when someone gets an error, you want them to understand what went wrong and how they can fix it. The goal is not just to tell someone they made a mistake, but to help them learn from it. That's kind of the whole philosophy behind the system.
+> This is also one of the reasons why localization is going to be a pain, because there are a lot of strings that I have to extract. There's a lot of work involved in making sure all those messages are clear. Especially because when someone gets an error, you want them to understand what went wrong and how they can fix it. The goal is not just to tell someone they made a mistake, but to help them learn from it. That's kind of the whole philosophy behind the system.
 
-It's not just a game mechanic. It's also part of teaching SQL. Because if you're learning, a generic error message isn't very useful. You need something that points you in the right direction, and that was one of the bigger challenges with making this. Balancing the accuracy of SQL with making it approachable. I had to decide what parts were important to include, and what parts would just get in the way.
+> It's not just a game mechanic. It's also part of teaching SQL. Because if you're learning, a generic error message isn't very useful. You need something that points you in the right direction, and that was one of the bigger challenges with making this. Balancing the accuracy of SQL with making it approachable. I had to decide what parts were important to include, and what parts would just get in the way.
 
 </details>
 
@@ -233,6 +242,8 @@ It's not just a game mechanic. It's also part of teaching SQL. Because if you're
 <details>
 
 <summary> Were you worried about releasing a (albeit very different) desktop-style puzzle game on the same day as another? (referring to bundled game on Steam) </summary>
+
+![Desktop Detectives bundle image from Steam post](https://shared.fastly.steamstatic.com/store_item_assets/steam/bundles/78768/igifsm2vji1x5y70/65a9f625712f0d7938072cd77da97a663fc27217/header_ratio.jpg?t=1782533394)
 
 > Not really, honestly. I don’t really view other indie games as competition, and I don’t think that one of our games would really overshadow the other. We were actually in talks of doing a bundle before their release date got announced, so we were already in touch.
 
@@ -284,6 +295,6 @@ It's not just a game mechanic. It's also part of teaching SQL. Because if you're
 
 <!------------------------------------------- DIVIDER ------------------------------------------->
 
-
+### [Back to Top](https://github.com/borasaekluna/database-detective-info/edit/adjustments-0915/README.md#database-detective-info)
 
 
