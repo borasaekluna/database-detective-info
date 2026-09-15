@@ -84,7 +84,7 @@ Answers go here (can use other markdown: code blocks, images/screenshots from st
     ❓ <b> Game release when? </b> 
   </summary>
 
-  > July 17th, 2026
+  > July 17th, 2026 📆
 </details>
 
 <!-- But at what cost?! -->
@@ -102,7 +102,7 @@ Answers go here (can use other markdown: code blocks, images/screenshots from st
     ❓ <b> Localization (languages/translations)? </b> 
   </summary>
 
-  > No plans for localization *for now*... The game has a *lot* of specific graphics and hand-drawn designs, that would be quite complicated to rework/redesign, especially for a small indie game/developer. Some cases are specifically really hard to localize since they incorporate wordplay that would be hard to translate into other languages. `(RELEASE UPDATE: Potential community contributed localization plan... We'll announce this when we are ready.)`
+  > No plans for localization *for now*... The game has a *lot* of specific graphics and hand-drawn designs, that would be quite complicated to rework/redesign, especially for a small indie game/developer. Some cases are specifically really hard to localize since they incorporate wordplay that would be hard to translate into other languages. </br> `(RELEASE UPDATE: Potential community contributed localization plan... We'll announce this when we are ready.)`
 </details>
 
 <!-- I know some SQL already, but my query won’t work?? -->
@@ -139,7 +139,7 @@ Answers go here (can use other markdown: code blocks, images/screenshots from st
     ❓ <b> Can we replay cases/levels or skip to specific ones? </b>
   </summary>
 
-  > ~~In the current version of the full game, you will only unlock the ability to replay specific cases after you've completed all of the existing ten, but this may change in future updates.~~ `(RELEASE UPDATE: You can now skip to levels that you've completed at any time.)`
+  > ~~In the current version of the full game, you will only unlock the ability to replay specific cases after you've completed all of the existing ten, but this may change in future updates.~~ </br> `(RELEASE UPDATE: You can now skip to levels that you've completed at any time.)`
 </details>
 
 <!-- How come my friend and I have different data? -->
@@ -160,8 +160,6 @@ Answers go here (can use other markdown: code blocks, images/screenshots from st
   > Thank you so much! The best way to support me is to purchase the game and wishlist what I make next. Purchasing through Steam directly also has its benefits, as it impacts how much Valve promotes the game algorithmically (through the Discovery Queue, daily deals, etc) so you're still helping me in that way! 
 
   `*(and of course, you can spread the word to your friends/family/coworkers/teachers/students/etc, which a lot of you have already been doing! It's been super fun reading your stories about it^^)*`
-
-  ![points shop](https://media.discordapp.net/attachments/1510157465721766088/1548343668442665051/trading_card_capsule.png?ex=6aaaab69&is=6aa959e9&hm=99cc62375d22607be748d24d7d09937d8dd8fdce1148f1a78aa33146501ad93f&=&format=webp&quality=lossless)
   
 </details>
 
@@ -222,6 +220,7 @@ An expandable FAQ/Q&A highlights from the official livestream event. *Answers in
   </summary>
 
   > Thomas: No, it’s not me, unfortunately. That was a lie.
+  
   > Luna: Yeah, that was a lie. It was actually me, the unpaid intern.
 
   `*Yes, it was indeed Thomas himself.*`
