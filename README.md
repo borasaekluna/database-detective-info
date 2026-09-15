@@ -1,25 +1,21 @@
 # Database Detective Info 
 `database-detective-info` is the official GitHub repository for information about the [Database Detective: Minor Crimes Division](https://store.steampowered.com/app/3950130/Database_Detective_Minor_Crimes_Division) game.
 
-## Quick Links
+# Quick Links
 
 ### Socials
 **Instagram** [https://www.instagram.com/databasedetective/](https://www.instagram.com/databasedetective/)\
 **YouTube** [https://www.youtube.com/@thomashsuster](https://www.youtube.com/@thomashsuster)\
 **TikTok** [https://www.tiktok.com/@database.detective](https://www.tiktok.com/@database.detective)\
-**Discord** [https://discord.gg/vGFGP4CyUd](https://discord.gg/vGFGP4CyUd)
+**Steam Page** [Database Detective: Minor Crimes Division game on Steam](https://store.steampowered.com/app/3950130/Database_Detective_Minor_Crimes_Division)
+### Community
+**Discord** [Join our Discord server!](https://discord.gg/vGFGP4CyUd)\
+**Steam** [Check out the Community Discussions threads!](https://steamcommunity.com/app/3950130/discussions/)
 
-**Steam** [Community Discussions Page](https://steamcommunity.com/app/3950130/discussions/)\
-**Steam** [Game/Store Page](https://store.steampowered.com/app/3950130/Database_Detective_Minor_Crimes_Division)\
-**Game Trailer** [Database Detective Trailer on YouTube](https://youtu.be/LuWbSgne2bw?si=fAeTA5fFkkWauqT-)
-
-### Solo Dev Q&A & Behind-the-Scenes *(Database Detective Release Celebration Livestream Event)*
-*Hosted by [Moonchild Luna](https://luna-song.carrd.co/#)*.
-Available to watch on Twitch & YouTube!\
-*(Use the links below, as you will NOT find these livestream recordings on the main social channels.)*
-
-**Twitch** [Twitch VOD](https://youtube.com/playlist?list=PLUqUtyhvpF_4&si=dd_6gbnHriuDDRDu) *(full livestream VOD)*\
-**YouTube** [YouTube Playlist](https://www.youtube.com/playlist?list=PLUqUtyhvpF_4) *(playlist of 15-minute segmented videos from the full VOD)*
+### YouTube Trailers
+Game Trailer [DATABASE DETECTIVE TRAILER](https://youtu.be/LuWbSgne2bw?si=fAeTA5fFkkWauqT-)\
+Game Release Date Announcement [Database Detective: Minor Crimes Division | Release Date Trailer](https://youtu.be/9R1E-J1YAWM?si=2kzC9_Nc9eG3VtMH)\
+Steam Game Launch [Database Detective: Minor Crimes Division | Launch Trailer](https://youtu.be/ij2HJW8ZF0c?si=JSTx5YubCjzOZrOj)
 
 ### Feedback / Bug Reports / Feature Requests
 [Known Issues](https://steamcommunity.com/app/3950130/discussions/0/580551263528204084/) *(known issues list on Steam community discussions pinned post)*\
@@ -28,7 +24,7 @@ Available to watch on Twitch & YouTube!\
 **The form is our preferred method (for tracking/organization)**, but you can also use the [Steam community discussions](https://steamcommunity.com/app/3950130/discussions/) pinned posts or the bug-reports & feature-requests channels in [our Discord server](https://discord.gg/vGFGP4CyUd).
 
 
-## Jump to:
+# Jump to:
 **[General FAQ *(incl. some pre-release questions)*](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#general-faq-incl-some-pre-release-questions)**
 
 **[Solo Dev Q&A & Behind-the-Scenes *(Database Detective Release Celebration Livestream Event)* Highlights](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#solo-dev-qa--behind-the-scenes-database-detective-release-celebration-highlights)**
@@ -39,23 +35,16 @@ Available to watch on Twitch & YouTube!\
 
 <!-- Q&A TEMPLATE
 <details>
-
 <summary> Question </summary>
-
-### Add a header (optional)
-
 Answers go here (can use other markdown: code blocks, images/screenshots from stream VOD, etc)
-
 </details>
 -->
 
-## General FAQ (incl. some pre-release questions)
+## General FAQ *(incl. some pre-release questions)*
 
 <details>
 
 <summary> Game release when? </summary>
-
-### Game release when?
 
 July 17th, 2026
 
@@ -139,17 +128,24 @@ Some details/data within cases are randomly generated, including the names of th
 
 > Thank you so much! The best way to support me is to purchase the game and wishlist what I make next. Purchasing through Steam directly also has its benefits, as it impacts how much Valve promotes the game algorithmically (through the Discovery Queue, daily deals, etc) so you're still helping me in that way! 
 
-*(and of course, you can spread the word to your friends/family/coworkers/teachers/students/etc, which a lot of you have already been doing! :o7:  It's been super fun reading your stories about it^^)*
+*(and of course, you can spread the word to your friends/family/coworkers/teachers/students/etc, which a lot of you have already been doing! It's been super fun reading your stories about it^^)*
 
 </details>
 
 
-## Solo Dev Q&A & Behind-the-Scenes (Database Detective Release Celebration) Highlights
-An expandable FAQ/Q&A highlights from the official livestream event. Answers include a combination of paraphrasing and direct quotes.
+# Database Detective Release Celebration Livestream Event
+*Hosted by [Moonchild Luna](https://luna-song.carrd.co/#)*.
 
-Watch the full livestream VOD on [Twitch](https://www.twitch.tv/videos/2824080943) or [YouTube](https://www.youtube.com/playlist?list=PLUqUtyhvpF_4)
+## Available to watch on Twitch & YouTube!\
+*(Use the links below, as you will NOT find these livestream recordings on the main social channels.)*
 
-## Directly DBD Related
+**Twitch** [Twitch VOD](https://youtube.com/playlist?list=PLUqUtyhvpF_4&si=dd_6gbnHriuDDRDu) *(full livestream VOD)*\
+**YouTube** [YouTube Playlist](https://www.youtube.com/playlist?list=PLUqUtyhvpF_4) *(playlist of 15-minute segmented videos from the full VOD)*
+
+## Solo Dev Q&A & Behind-the-Scenes
+An expandable FAQ/Q&A highlights from the official livestream event. *Answers include a combination of paraphrasing and direct quotes.*
+
+## Directly DBD Related *(Questions Part 1/2)*
 
 <details>
 
@@ -163,31 +159,27 @@ For example, the help that people can give is only going to be teaching you how 
 
 </details>
 
+<!-- Will you implement any old style virus like the one with the letters falling or windows misbehaving (like the silly software Desktop Goose) that will make a task more difficult? -->
 <details>
 
-<summary> Will you implement any old style virus like the one with the letters falling or windows misbehaving (like the silly software Desktop Goose 🪿 ) that will make a task more difficult? </summary>
-
-### Will you implement any old style virus like the one with the letters falling or windows misbehaving (like the silly software Desktop Goose 🪿 ) that will make a task more difficult? 
+<summary> Will you implement any old style virus like the one with the letters falling or windows misbehaving (like the silly software Desktop Goose) that will make a task more difficult? </summary>
 
 That would be fun. Like something that messes up your query. I think that would be more annoying than anything. Because this game isn’t really mechanically goofy like that. It is kind of goofy, but not in that way. You know what’s funny? I got a comment once that said, “I just want to do SQL. I don’t want to do detective work. There’s too much detective work in this game.” So I don’t want to make things frustrating.
 </details>
 
+<!-- Can we edit saved tables queries? Like, just EDIT them. -->
 <details>
 
-<summary> Can we edit saved tables queries? Like, just EDIT them.
- </summary>
-
-### Can we edit saved tables queries? Like, just EDIT them.
+<summary> Can we edit saved tables queries? Like, just EDIT them. </summary>
 
 With something like ALTER on a result that was saved as a table? You can’t really do that, because it’s basically just saving a result. But you can just adjust your query create a new result table.
 
 </details>
 
+<!-- The credits implied this but just wanted to confirm, did you voice the supervisor yourself? He's incredible. -->
 <details>
 
 <summary> The credits implied this but just wanted to confirm, did you voice the supervisor yourself? He's incredible. </summary>
-
-### The credits implied this but just wanted to confirm, did you voice the supervisor yourself? He's incredible.
 
 Thomas: No, it’s not me, unfortunately. That was a lie.
 Luna: Yeah, that was a lie. It was actually me, the unpaid intern.
@@ -196,11 +188,10 @@ Yes, it was indeed Thomas himself.
 
 </details>
 
+<!--How much art outsourcing was there?-->
 <details>
 
 <summary> How much art outsourcing was there? </summary>
-
-### How much art outsourcing was there?
 
 There is no art outsourcing, except for just the inclusion/featuring of fanart on one specific website, and two icon assets from Windows 95, although some animation was added to them for the game. 
 
@@ -210,11 +201,10 @@ I will say that the only two assets that I did not draw are these two icons righ
 
 </details>
 
+<!-- Were there any specific challenges when making the game that stuck out for you? -->
 <details>
 
 <summary> Were there any specific challenges when making the game that stuck out for you? </summary>
-
-### Were there any specific challenges when making the game that stuck out for you?
 
 There were a lot. You can get more specific, but drawing takes a long time. There were challenges in numerous ways. I think the hardest thing was just keeping focused. I'd been doing this part-time. There was a time when some of the cases were done, but not the book and not the parser. Because there's the whole SQL parsing that needed to be done. I was just thinking, "Oh, there's still like a year ahead." I think the programming itself was actually relatively easy, since I'm a software engineer by profession. A lot of it was the parser. 
 
@@ -230,13 +220,11 @@ It's not just a game mechanic. It's also part of teaching SQL. Because if you're
 
 </details>
 
-## Bonus / Extra Questions
+## Bonus / Extra Questions *(Questions Part 2/2)*
 
 <details>
 
 <summary> Were you worried about releasing a (albeit very different) desktop-style puzzle game on the same day as another? (referring to bundled game on Steam) </summary>
-
-### Were you worried about releasing a (albeit very different) desktop-style puzzle game on the same day as another? (referring to bundled game on Steam)
 
 > Not really, honestly. I don’t really view other indie games as competition, and I don’t think that one of our games would really overshadow the other. We were actually in talks of doing a bundle before their release date got announced, so we were already in touch.
 
@@ -250,8 +238,6 @@ It's not just a game mechanic. It's also part of teaching SQL. Because if you're
 
 <summary> How many emails have you gotten from the "HelpMe" website? </summary>
 
-### How many emails have you gotten from the "HelpMe" website?
-
 > A lot of emails. It’s funny, because I’m going to make some short social media content about this, which was kind of the intention. I remember someone subscribed me to the Taco Bell newsletter. Someone sent me a photo of their face, which I thought was funny. It was just a weird little thing.
 
 > You know what’s funny? I’ve talked to Luna about this. That email used to be my phone number. I actually had my phone number attached to it. The idea is that it feels more personal, which makes it more fun. But yeah, you could dox me very easily. 
@@ -264,8 +250,6 @@ It's not just a game mechanic. It's also part of teaching SQL. Because if you're
 
 <summary> Does Database Detectives take place in the same universe as Jay's Walkin'? (Thomas's previous game, available on Steam for free) </summary>
 
-### Does Database Detectives take place in the same universe as Jay's Walkin'? (Thomas's previous game, available on Steam for free)
-
 *Short answer: Yes. Long answer: Watch the livestream recording for the whole backstory/origins/etc.*
 
 </details>
@@ -274,8 +258,6 @@ It's not just a game mechanic. It's also part of teaching SQL. Because if you're
 
 <summary> As follow-up to the first question, do your actions as the player character in Jay's Walkin' constitute minor crimes? </summary>
 
-### Question
-
 > 100%.
 
 </details>
@@ -283,8 +265,6 @@ It's not just a game mechanic. It's also part of teaching SQL. Because if you're
 <details>
 
 <summary> Does Moonchild Luna es "hijo de la luna" in Spanish? </summary>
-
-### Question
 
 *Maybe? I don't really know Spanish, so I'm unsure if that translates to "son/child/offspring of the moon", but the reason behind the "moonchild/moonkid" part of my name refers directly to [my story/lore of being a young moon](https://www.youtube.com/watch?v=0JPNlucxbik). As in, it's not that my parent is the (Earth's) moon, but rather that I myself am a moon that is younger than other moons. Although, masculine/feminine word language-wise ("hijo"), it works either way, as my character is meant to be sort of genderless/genderfluid as a non-human. (I'm Canadian, so I'm just basing my Latin-root-language logic off of what I know from French.)*
 
