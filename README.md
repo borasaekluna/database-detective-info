@@ -3,17 +3,17 @@
 
 <!------------------------------------------- DIVIDER ------------------------------------------->
 # Jump to:
-**Quick Links - external links**
+## Quick Links - *(lists of external links)*
 
-**Quick Links (Socials)**
-**Quick Links (Community/Discussion)**
-**Quick Links (YouTube Trailers)**
-**Quick Links (Feedback/Bug Reports/Feature Requests)**
+[Quick Links (Socials)](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#socials)\
+[Quick Links (Community/Discussion)](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#community)\
+[Quick Links (YouTube Trailers)](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#youtube-trailers)\
+[Quick Links (Feedback/Bug Reports/Feature Requests)](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#feedback--bug-reports--feature-requests)
 
-**FAQ/Q&A - info within this page**
-**[General FAQ *(incl. some pre-release questions)*](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#general-faq-incl-some-pre-release-questions)**
+## FAQ / Q&A - *(info within this page)*
+[General FAQ *(incl. some pre-release questions)*](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#general-faq-incl-some-pre-release-questions)
 
-**[Solo Dev Q&A & Behind-the-Scenes *(Database Detective Release Celebration Livestream Event)* Highlights](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#solo-dev-qa--behind-the-scenes-database-detective-release-celebration-highlights)**
+[Solo Dev Q&A & Behind-the-Scenes *(Database Detective Release Celebration Livestream Event)* Highlights](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#database-detective-release-celebration-livestream-event)
 - [Directly DBD Related Questions *(Section 1/2)*](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#directly-dbd-related)
 - [Bonus / Extra Questions *(Section 2/2)*](https://github.com/borasaekluna/database-detective-info/edit/rough_01/README.md#bonus--extra-questions-section-22)
 
@@ -51,7 +51,7 @@ Answers go here (can use other markdown: code blocks, images/screenshots from st
 
 <!------------------------------------------- DIVIDER ------------------------------------------->
 
-## General FAQ *(incl. some pre-release questions)*
+# General FAQ *(incl. some pre-release questions)*
 
 <!-- Game release when? -->
 <details>
@@ -141,7 +141,7 @@ Some details/data within cases are randomly generated, including the names of th
 # Database Detective Release Celebration Livestream Event
 *Hosted by [Moonchild Luna](https://luna-song.carrd.co/#)*.
 
-## Available to watch on Twitch & YouTube!
+## Watch on Twitch & YouTube!
 *(Use the links below, as you will NOT find these livestream recordings on the main social channels.)*
 
 **Twitch** [Twitch VOD](https://youtube.com/playlist?list=PLUqUtyhvpF_4&si=dd_6gbnHriuDDRDu) *(full livestream VOD)*\
