@@ -71,8 +71,7 @@ Answers go here (can use other markdown: code blocks, images/screenshots from st
 <!-- Game release when? -->
 <details>
   <summary> 
-  
-  ### Game release when? 
+    <b> Game release when? </b> 
   </summary>
 
   July 17th, 2026
@@ -81,8 +80,7 @@ Answers go here (can use other markdown: code blocks, images/screenshots from st
 <!-- But at what cost?! -->
 <details>
   <summary> 
-    
-  ### But *at what cost*?! 
+    <b>But *at what cost*?! </b>
   </summary>
 
   Only $12.75 during two-week 15% launch discount, then returning to $14.99 base price. *(Prices will be localized by purchasing power.)*
@@ -91,8 +89,7 @@ Answers go here (can use other markdown: code blocks, images/screenshots from st
 <!-- Localization (languages/translations)? -->
 <details>
   <summary> 
-
-  ### Localization (languages/translations)? 
+    <b> Localization (languages/translations)? </b> 
   </summary>
 
   No plans for localization *for now*... The game has a *lot* of specific graphics and hand-drawn designs, that would be quite complicated to rework/redesign, especially for a small indie game/developer. Some cases are specifically really hard to localize since they incorporate wordplay that would be hard to translate into other languages. `(RELEASE UPDATE: Potential community contributed localization plan... We'll announce this when we are ready.)`
@@ -101,8 +98,7 @@ Answers go here (can use other markdown: code blocks, images/screenshots from st
 <!-- I know some SQL already, but my query won’t work?? -->
 <details>
   <summary> 
-  
-  ### I know some SQL already, but my query won’t work?? 
+    <b> I know some SQL already, but my query won’t work?? </b>
   </summary>
 
   There’s actually lots of different versions/spinoffs of SQL languages! So there may be some small differences between whichever one you know and the one used in DBD, but most of it should be very similar. The game uses SQLite! *Some syntax may not be included depending on complexity/advanced (see next question response).*
@@ -111,8 +107,7 @@ Answers go here (can use other markdown: code blocks, images/screenshots from st
 <!-- Will there be (advanced SQL syntax example here)? -->
 <details>
   <summary> 
-
-  ### Will there be (advanced SQL syntax example here)? 
+    <b> Will there be (advanced SQL syntax example here)? </b>
   </summary>
 
   The base game is meant cover/include SQL that would be part of something more like an introductory course, so players from various backgrounds & skill levels can still have fun with this detective game! (*If* we were to design some bonus cases/challenges with advanced SQL, it would probably make more sense as a DLC/optional add-on, but not requiring advanced skills in order to complete the main game. *But no plans for that at the moment.*)
@@ -121,8 +116,7 @@ Answers go here (can use other markdown: code blocks, images/screenshots from st
 <!-- What happens if I choose the wrong suspect? -->
 <details>
   <summary> 
-
- ### What happens if I choose the wrong suspect? 
+    <b> What happens if I choose the wrong suspect? </b>
   </summary>
 
   ~~If you get a single case wrong, the game will move on and you'll get a message from your supervisor. If you give additional wrong answers, you'll get the chance to submit another answer.~~ It's actually a bit complicated to explain the consequences exactly, *but maybe it's best if you don't arrest the wrong suspect, eh Detective? We ARE doing very serious work here, you know.*
@@ -131,8 +125,7 @@ Answers go here (can use other markdown: code blocks, images/screenshots from st
 <!-- Can we replay cases/levels or skip to specific ones? -->
 <details>
   <summary>
-    
-  ### Can we replay cases/levels or skip to specific ones? 
+    <b> Can we replay cases/levels or skip to specific ones? </b>
   </summary>
 
   ~~In the current version of the full game, you will only unlock the ability to replay specific cases after you've completed all of the existing ten, but this may change in future updates.~~ `(RELEASE UPDATE: You can now skip to levels that you've completed at any time.)`
@@ -141,8 +134,7 @@ Answers go here (can use other markdown: code blocks, images/screenshots from st
 <!-- How come my friend and I have different data? -->
 <details>
   <summary> 
-  
-  ### How come my friend and I have different data? 
+    <b> How come my friend and I have different data? </b>
   </summary>
 
   Some details/data within cases are randomly generated, including the names of the suspects and the tables themselves.
@@ -151,8 +143,7 @@ Answers go here (can use other markdown: code blocks, images/screenshots from st
 <!-- I really enjoyed the game! Is there any way for me to directly support/donate you as a solo developer (like Kofi, Patreon, or even a Steam Supporter Pack DLC, etc)? -->
 <details>
   <summary> 
-
-  ### I really enjoyed the game! Is there any way for me to directly support/donate you as a solo developer *(like Kofi, Patreon, or even a Steam Supporter Pack DLC, etc)** 
+    <b> I really enjoyed the game! Is there any way for me to directly support/donate you as a solo developer *(like Kofi, Patreon, or even a Steam Supporter Pack DLC, etc) </b>
   </summary>
 
   > Thank you so much! The best way to support me is to purchase the game and wishlist what I make next. Purchasing through Steam directly also has its benefits, as it impacts how much Valve promotes the game algorithmically (through the Discovery Queue, daily deals, etc) so you're still helping me in that way! 
@@ -182,8 +173,7 @@ An expandable FAQ/Q&A highlights from the official livestream event. *Answers in
 <!-- Do cases rerandomize when you restart? -->
 <details>
   <summary> 
-    
-  ### Do cases rerandomize when you restart? 
+    <b> Do cases rerandomize when you restart? </b>
   </summary>
 
   Yes, they do rerandomize. The data itself is refreshed to a different set of data. But the queries you wrote should still work, you just need to rerun them again. The point of that was so you're not just relying on a specific answer, like "X and Y are the people responsible". You actually have to work through the case.
@@ -194,8 +184,7 @@ An expandable FAQ/Q&A highlights from the official livestream event. *Answers in
 <!-- Will you implement any old style virus like the one with the letters falling or windows misbehaving (like the silly software Desktop Goose) that will make a task more difficult? -->
 <details>
   <summary> 
-
-  ### Will you implement any old style virus like the one with the letters falling or windows misbehaving (like the silly software Desktop Goose) that will make a task more difficult? 
+    <b> Will you implement any old style virus like the one with the letters falling or windows misbehaving (like the silly software Desktop Goose) that will make a task more difficult? </b>
   </summary>
 
   That would be fun. Like something that messes up your query. I think that would be more annoying than anything. Because this game isn’t really mechanically goofy like that. It is kind of goofy, but not in that way. You know what’s funny? I got a comment once that said, “I just want to do SQL. I don’t want to do detective work. There’s too much detective work in this game.” So I don’t want to make things frustrating.
@@ -204,8 +193,7 @@ An expandable FAQ/Q&A highlights from the official livestream event. *Answers in
 <!-- Can we edit saved tables queries? Like, just EDIT them. -->
 <details>
   <summary> 
-
-  ### Can we edit saved tables queries? Like, just EDIT them. 
+    <b> Can we edit saved tables queries? Like, just EDIT them. </b>
   </summary>
 
   With something like ALTER on a result that was saved as a table? You can’t really do that, because it’s basically just saving a result. But you can just adjust your query create a new result table.
@@ -214,8 +202,7 @@ An expandable FAQ/Q&A highlights from the official livestream event. *Answers in
 <!-- The credits implied this but just wanted to confirm, did you voice the supervisor yourself? He's incredible. -->
 <details>
   <summary> 
-
-  ### The credits implied this but just wanted to confirm, did you voice the supervisor yourself? He's incredible. 
+    <b> The credits implied this but just wanted to confirm, did you voice the supervisor yourself? He's incredible. </b>
   </summary>
 
   Thomas: No, it’s not me, unfortunately. That was a lie.
@@ -227,8 +214,7 @@ An expandable FAQ/Q&A highlights from the official livestream event. *Answers in
 <!--How much art outsourcing was there?-->
 <details>
   <summary> 
-
-  ### How much art outsourcing was there? 
+    <b> How much art outsourcing was there? </b>
   </summary>
 
   There is no art outsourcing, except for just the inclusion/featuring of fanart on one specific website, and two icon assets from Windows 95, although some animation was added to them for the game. 
@@ -241,8 +227,7 @@ An expandable FAQ/Q&A highlights from the official livestream event. *Answers in
 <!-- Were there any specific challenges when making the game that stuck out for you? -->
 <details>
   <summary> 
-
-  ### Were there any specific challenges when making the game that stuck out for you? 
+    <b> Were there any specific challenges when making the game that stuck out for you? </b>
   </summary>
 
 > There were a lot. You can get more specific, but drawing takes a long time. There were challenges in numerous ways. I think the hardest thing was just keeping focused. I'd been doing this part-time. There was a time when some of the cases were done, but not the book and not the parser. Because there's the whole SQL parsing that needed to be done. I was just thinking, "Oh, there's still like a year ahead." I think the programming itself was actually relatively easy, since I'm a software engineer by profession. A lot of it was the parser. 
