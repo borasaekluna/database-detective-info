@@ -16,11 +16,11 @@
 [Quick Links (Feedback/Bug Reports/Feature Requests)](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#feedback--bug-reports--feature-requests)
 
 ## FAQ / Q&A - *(info within this page)*
-[General FAQ *(incl. some pre-release questions)*](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#general-faq-incl-some-pre-release-questions)
+[General FAQ *(incl. some pre-release questions)*](https://github.com/borasaekluna/database-detective-info/blob/main/README.md#general-faq-incl-some-pre-release-questions)
 
-[Solo Dev Q&A & Behind-the-Scenes *(Database Detective Release Celebration Livestream Event)* Highlights](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#database-detective-release-celebration-livestream-event)
-- [Directly DBD Related Questions *(Section 1/2)*](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#directly-dbd-related)
-- [Bonus / Extra Questions *(Section 2/2)*](https://github.com/borasaekluna/database-detective-info/edit/rough_01/README.md#bonus--extra-questions-section-22)
+[Solo Dev Q&A & Behind-the-Scenes *(Database Detective Release Celebration Livestream Event)* Highlights](https://github.com/borasaekluna/database-detective-info/blob/main/README.md#database-detective-release-celebration-livestream-event)
+- [Directly DBD Related Questions *(Section 1/2)*](https://github.com/borasaekluna/database-detective-info/blob/main/README.md#directly-dbd-related-questions-section-12)
+- [Bonus / Extra Questions *(Section 2/2)*](https://github.com/borasaekluna/database-detective-info/blob/main/README.md#bonus--extra-questions-section-22)
 
 <!------------------------------------------- DIVIDER ------------------------------------------->
 
