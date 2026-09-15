@@ -313,6 +313,6 @@ An expandable FAQ/Q&A highlights from the official livestream event. *Answers in
 
 <!------------------------------------------- DIVIDER ------------------------------------------->
 
-### [Back to Top](https://github.com/borasaekluna/database-detective-info/edit/adjustments-0915/README.md#database-detective-info)
+### [Back to Top](https://github.com/borasaekluna/database-detective-info/blob/main/README.md#database-detective-info)
 
 
