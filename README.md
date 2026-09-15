@@ -1,12 +1,16 @@
+![more than just knowing sql](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3950130/extras/371de83286e44b6cb3a723a37a13484f.webp?t=1784303268)
 
 # Database Detective Info 
 
 `database-detective-info` is the official GitHub repository for information about the [Database Detective: Minor Crimes Division](https://store.steampowered.com/app/3950130/Database_Detective_Minor_Crimes_Division) game.
 
-![assistant wave gif](https://clan.fastly.steamstatic.com/images//45766296/e9f60ac520d6d75b47448ba8cf1462538931b6e7.png)
+![assistant wave gif](https://clan.fastly.steamstatic.com/images//45766296/e9f60ac520d6d75b47448ba8cf1462538931b6e7.png)![Database Detective header image from Steam page](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3950130/ed5315c85ccaeaa8deb05aa6a91fc08e245d1e05/header.jpg?t=1784303268)
 
-![more than just knowing sql](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3950130/extras/371de83286e44b6cb3a723a37a13484f.webp?t=1784303268)
+
 <!------------------------------------------- DIVIDER ------------------------------------------->
+---
+![steam badges as horizontal divider](https://clan.fastly.steamstatic.com/images//45766296/ab75763dc6d77f0ef226e01367b186de3a0fdc66.png)![steam badges as horizontal divider](https://clan.fastly.steamstatic.com/images//45766296/ab75763dc6d77f0ef226e01367b186de3a0fdc66.png)
+
 # Jump to:
 ## Quick Links - *(lists of external links)*
 
@@ -22,15 +26,17 @@
 - [Directly DBD Related Questions *(Section 1/2)*](https://github.com/borasaekluna/database-detective-info/blob/main/README.md#directly-dbd-related-questions-section-12)
 - [Bonus / Extra Questions *(Section 2/2)*](https://github.com/borasaekluna/database-detective-info/blob/main/README.md#bonus--extra-questions-section-22)
 
+![steam badges as horizontal divider](https://clan.fastly.steamstatic.com/images//45766296/ab75763dc6d77f0ef226e01367b186de3a0fdc66.png)![steam badges as horizontal divider](https://clan.fastly.steamstatic.com/images//45766296/ab75763dc6d77f0ef226e01367b186de3a0fdc66.png)
+
+---
 <!------------------------------------------- DIVIDER ------------------------------------------->
 
-![Database Detective header image from Steam page](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3950130/ed5315c85ccaeaa8deb05aa6a91fc08e245d1e05/header.jpg?t=1784303268)
+![scroll divider from shorts thumb](https://i.ytimg.com/vi/ZiSYyz5NsK8/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLB2569exTFRmoIAunuZ9F4ogwdssg&usqp=CCk)
 
+---
 <!------------------------------------------- DIVIDER ------------------------------------------->
 
 # Quick Links
-
-![Database Detective Discord image from Steam post](https://clan.fastly.steamstatic.com/images/45766296/e39a36bb926cc3906ebc7add6554f162af0f6e6b_960x311.png)
 
 ### Socials
 **Instagram** [https://www.instagram.com/databasedetective/](https://www.instagram.com/databasedetective/)\
@@ -59,7 +65,7 @@ Steam Game Launch [Database Detective: Minor Crimes Division | Launch Trailer](h
 ![soymole gif](https://clan.fastly.steamstatic.com/images//45766296/c3ca223ef5cd4a3d0d4b304137e654fd6c02db88.png)
 
 <!------------------------------------------- DIVIDER ------------------------------------------->
-
+---
 <!-- Q&A TEMPLATE
 <details>
 <summary> Question </summary>
@@ -78,16 +84,16 @@ Answers go here (can use other markdown: code blocks, images/screenshots from st
     ❓ <b> Game release when? </b> 
   </summary>
 
-  July 17th, 2026
+  > July 17th, 2026 📆
 </details>
 
 <!-- But at what cost?! -->
 <details>
   <summary> 
-    ❓ <b> But *at what cost*?! </b>
+    ❓ <b> But <i>at what cost</i>?! </b>
   </summary>
 
-  Only $12.75 during two-week 15% launch discount, then returning to $14.99 base price. *(Prices will be localized by purchasing power.)*
+  > Only $12.75 during two-week 15% launch discount, then returning to $14.99 base price. *(Prices will be localized by purchasing power.)*
 </details>
 
 <!-- Localization (languages/translations)? -->
@@ -96,7 +102,7 @@ Answers go here (can use other markdown: code blocks, images/screenshots from st
     ❓ <b> Localization (languages/translations)? </b> 
   </summary>
 
-  No plans for localization *for now*... The game has a *lot* of specific graphics and hand-drawn designs, that would be quite complicated to rework/redesign, especially for a small indie game/developer. Some cases are specifically really hard to localize since they incorporate wordplay that would be hard to translate into other languages. `(RELEASE UPDATE: Potential community contributed localization plan... We'll announce this when we are ready.)`
+  > No plans for localization *for now*... The game has a *lot* of specific graphics and hand-drawn designs, that would be quite complicated to rework/redesign, especially for a small indie game/developer. Some cases are specifically really hard to localize since they incorporate wordplay that would be hard to translate into other languages. </br> `(RELEASE UPDATE: Potential community contributed localization plan... We'll announce this when we are ready.)`
 </details>
 
 <!-- I know some SQL already, but my query won’t work?? -->
@@ -105,7 +111,7 @@ Answers go here (can use other markdown: code blocks, images/screenshots from st
     ❓ <b> I know some SQL already, but my query won’t work?? </b>
   </summary>
 
-  There’s actually lots of different versions/spinoffs of SQL languages! So there may be some small differences between whichever one you know and the one used in DBD, but most of it should be very similar. The game uses SQLite! *Some syntax may not be included depending on complexity/advanced (see next question response).*
+  > There’s actually lots of different versions/spinoffs of SQL languages! So there may be some small differences between whichever one you know and the one used in DBD, but most of it should be very similar. The game uses SQLite! *Some syntax may not be included depending on complexity/advanced (see next question response).*
 </details>
 
 <!-- Will there be (advanced SQL syntax example here)? -->
@@ -114,7 +120,7 @@ Answers go here (can use other markdown: code blocks, images/screenshots from st
     ❓ <b> Will there be (advanced SQL syntax example here)? </b>
   </summary>
 
-  The base game is meant cover/include SQL that would be part of something more like an introductory course, so players from various backgrounds & skill levels can still have fun with this detective game! (*If* we were to design some bonus cases/challenges with advanced SQL, it would probably make more sense as a DLC/optional add-on, but not requiring advanced skills in order to complete the main game. *But no plans for that at the moment.*)
+  > The base game is meant cover/include SQL that would be part of something more like an introductory course, so players from various backgrounds & skill levels can still have fun with this detective game! (*If* we were to design some bonus cases/challenges with advanced SQL, it would probably make more sense as a DLC/optional add-on, but not requiring advanced skills in order to complete the main game. *But no plans for that at the moment.*)
 </details>
 
 <!-- What happens if I choose the wrong suspect? -->
@@ -123,7 +129,8 @@ Answers go here (can use other markdown: code blocks, images/screenshots from st
     ❓ <b> What happens if I choose the wrong suspect? </b>
   </summary>
 
-  ~~If you get a single case wrong, the game will move on and you'll get a message from your supervisor. If you give additional wrong answers, you'll get the chance to submit another answer.~~ It's actually a bit complicated to explain the consequences exactly, *but maybe it's best if you don't arrest the wrong suspect, eh Detective? We ARE doing very serious work here, you know.*
+  > ~~If you get a single case wrong, the game will move on and you'll get a message from your supervisor. If you give additional wrong answers, you'll get the chance to submit another answer.~~ It's actually a bit complicated to explain the consequences exactly, *but maybe it's best if you don't arrest the wrong suspect, eh Detective? We ARE doing very serious work here, you know.*
+
 </details>
 
 <!-- Can we replay cases/levels or skip to specific ones? -->
@@ -132,7 +139,7 @@ Answers go here (can use other markdown: code blocks, images/screenshots from st
     ❓ <b> Can we replay cases/levels or skip to specific ones? </b>
   </summary>
 
-  ~~In the current version of the full game, you will only unlock the ability to replay specific cases after you've completed all of the existing ten, but this may change in future updates.~~ `(RELEASE UPDATE: You can now skip to levels that you've completed at any time.)`
+  > ~~In the current version of the full game, you will only unlock the ability to replay specific cases after you've completed all of the existing ten, but this may change in future updates.~~ </br> `(RELEASE UPDATE: You can now skip to levels that you've completed at any time.)`
 </details>
 
 <!-- How come my friend and I have different data? -->
@@ -141,7 +148,7 @@ Answers go here (can use other markdown: code blocks, images/screenshots from st
     ❓ <b> How come my friend and I have different data? </b>
   </summary>
 
-  Some details/data within cases are randomly generated, including the names of the suspects and the tables themselves.
+  > Some details/data within cases are randomly generated, including the names of the suspects and the tables themselves.
 </details>
 
 <!-- I really enjoyed the game! Is there any way for me to directly support/donate you as a solo developer (like Kofi, Patreon, or even a Steam Supporter Pack DLC, etc)? -->
@@ -152,13 +159,12 @@ Answers go here (can use other markdown: code blocks, images/screenshots from st
 
   > Thank you so much! The best way to support me is to purchase the game and wishlist what I make next. Purchasing through Steam directly also has its benefits, as it impacts how much Valve promotes the game algorithmically (through the Discovery Queue, daily deals, etc) so you're still helping me in that way! 
 
-  *(and of course, you can spread the word to your friends/family/coworkers/teachers/students/etc, which a lot of you have already been doing! It's been super fun reading your stories about it^^)*
-
-  ![points shop](https://media.discordapp.net/attachments/1510157465721766088/1548343668442665051/trading_card_capsule.png?ex=6aaaab69&is=6aa959e9&hm=99cc62375d22607be748d24d7d09937d8dd8fdce1148f1a78aa33146501ad93f&=&format=webp&quality=lossless)
+  `*(and of course, you can spread the word to your friends/family/coworkers/teachers/students/etc, which a lot of you have already been doing! It's been super fun reading your stories about it^^)*`
   
 </details>
 
 <!------------------------------------------- DIVIDER ------------------------------------------->
+---
 
 # Database Detective Release Celebration Livestream Event
 *Hosted by [Moonchild Luna](https://luna-song.carrd.co/#)*.
@@ -184,9 +190,9 @@ An expandable FAQ/Q&A highlights from the official livestream event. *Answers in
     ❓ <b> Do cases rerandomize when you restart? </b>
   </summary>
 
-  Yes, they do rerandomize. The data itself is refreshed to a different set of data. But the queries you wrote should still work, you just need to rerun them again. The point of that was so you're not just relying on a specific answer, like "X and Y are the people responsible". You actually have to work through the case.
+  > Yes, they do rerandomize. The data itself is refreshed to a different set of data. But the queries you wrote should still work, you just need to rerun them again. The point of that was so you're not just relying on a specific answer, like "X and Y are the people responsible". You actually have to work through the case.
 
-  For example, the help that people can give is only going to be teaching you how to do it or sharing queries. But it won't be directly skipping to giving an answer key kind of thing. Since the point of the game is to use SQL, for you to experience using SQL and running queries.
+  > For example, the help that people can give is only going to be teaching you how to do it or sharing queries. But it won't be directly skipping to giving an answer key kind of thing. Since the point of the game is to use SQL, for you to experience using SQL and running queries.
 </details>
 
 <!-- Will you implement any old style virus like the one with the letters falling or windows misbehaving (like the silly software Desktop Goose) that will make a task more difficult? -->
@@ -195,7 +201,7 @@ An expandable FAQ/Q&A highlights from the official livestream event. *Answers in
     ❓ <b> Will you implement any old style virus like the one with the letters falling or windows misbehaving (like the silly software Desktop Goose) that will make a task more difficult? </b>
   </summary>
 
-  That would be fun. Like something that messes up your query. I think that would be more annoying than anything. Because this game isn’t really mechanically goofy like that. It is kind of goofy, but not in that way. You know what’s funny? I got a comment once that said, “I just want to do SQL. I don’t want to do detective work. There’s too much detective work in this game.” So I don’t want to make things frustrating.
+  > That would be fun. Like something that messes up your query. I think that would be more annoying than anything. Because this game isn’t really mechanically goofy like that. It is kind of goofy, but not in that way. You know what’s funny? I got a comment once that said, “I just want to do SQL. I don’t want to do detective work. There’s too much detective work in this game.” So I don’t want to make things frustrating.
 </details>
 
 <!-- Can we edit saved tables queries? Like, just EDIT them. -->
@@ -204,7 +210,7 @@ An expandable FAQ/Q&A highlights from the official livestream event. *Answers in
     ❓ <b> Can we edit saved tables queries? Like, just EDIT them. </b>
   </summary>
 
-  With something like ALTER on a result that was saved as a table? You can’t really do that, because it’s basically just saving a result. But you can just adjust your query create a new result table.
+  > With something like ALTER on a result that was saved as a table? You can’t really do that, because it’s basically just saving a result. But you can just adjust your query create a new result table.
 </details>
 
 <!-- The credits implied this but just wanted to confirm, did you voice the supervisor yourself? He's incredible. -->
@@ -213,10 +219,12 @@ An expandable FAQ/Q&A highlights from the official livestream event. *Answers in
     ❓ <b> The credits implied this but just wanted to confirm, did you voice the supervisor yourself? He's incredible. </b>
   </summary>
 
-  Thomas: No, it’s not me, unfortunately. That was a lie.
-  Luna: Yeah, that was a lie. It was actually me, the unpaid intern.
+  > Thomas: No, it’s not me, unfortunately. That was a lie.
+  
+  > Luna: Yeah, that was a lie. It was actually me, the unpaid intern.
 
-  *Yes, it was indeed Thomas himself.*
+  `*Yes, it was indeed Thomas himself.*`
+  
 </details>
 
 <!--How much art outsourcing was there?-->
@@ -225,11 +233,11 @@ An expandable FAQ/Q&A highlights from the official livestream event. *Answers in
     ❓ <b> How much art outsourcing was there? </b>
   </summary>
 
-  There is no art outsourcing, except for just the inclusion/featuring of fanart on one specific website, and two icon assets from Windows 95, although some animation was added to them for the game. 
+  > There is no art outsourcing, except for just the inclusion/featuring of fanart on one specific website, and two icon assets from Windows 95, although some animation was added to them for the game. 
 
-  In the Moleman Fans section, that was all just for this page, where I compiled fan art just for Detective Moleman. This is more like a fun little reference thing, not for the base game.
+  > In the Moleman Fans section, that was all just for this page, where I compiled fan art just for Detective Moleman. This is more like a fun little reference thing, not for the base game.
 
-  I will say that the only two assets that I did not draw are these two icons right here. The web browser and the music player. These are from the Windows 95 icon set that I just copied and pasted. They haven't gone after me yet. I hope they don't. But I did do the animation where, when you hover over it, it switches icons.
+  > I will say that the only two assets that I did not draw are these two icons right here. The web browser and the music player. These are from the Windows 95 icon set that I just copied and pasted. They haven't gone after me yet. I hope they don't. But I did do the animation where, when you hover over it, it switches icons.
 </details>
 
 <!-- Were there any specific challenges when making the game that stuck out for you? -->
@@ -258,7 +266,7 @@ An expandable FAQ/Q&A highlights from the official livestream event. *Answers in
 <!-- Were you worried about releasing a (albeit very different) desktop-style puzzle game on the same day as another? (referring to bundled game on Steam) -->
 <details>
   <summary>
-    ❓ <b> Were you worried about releasing a (albeit very different) desktop-style puzzle game on the same day as another? (referring to bundled game on Steam) </b> 
+    ❓ <b> Were you worried about releasing a (albeit very different) desktop-style puzzle game on the same day as another? <i> (referring to bundled game on Steam)</i> </b> 
   </summary>
 
 ![Desktop Detectives bundle image from Steam post](https://shared.fastly.steamstatic.com/store_item_assets/steam/bundles/78768/igifsm2vji1x5y70/65a9f625712f0d7938072cd77da97a663fc27217/header_ratio.jpg?t=1782533394)
@@ -280,16 +288,17 @@ An expandable FAQ/Q&A highlights from the official livestream event. *Answers in
 
 > You know what’s funny? I’ve talked to Luna about this. That email used to be my phone number. I actually had my phone number attached to it. The idea is that it feels more personal, which makes it more fun. But yeah, you could dox me very easily. 
 
-*Sorry to anyone who would've wanted to call Thomas /j*
+`*Sorry to anyone who would've wanted to call Thomas /j*`
+
 </details>
 
 <!-- Does Database Detectives take place in the same universe as Jay's Walkin'? -->
 <details>
   <summary> 
-    ❓ <b> Does Database Detectives take place in the same universe as Jay's Walkin'? (Thomas's previous game, available on Steam for free) </b> 
+    ❓ <b> Does Database Detectives take place in the same universe as Jay's Walkin'? <i> (Thomas's previous game, available on Steam for free)</i> </b> 
   </summary>
 
-*Short answer: Yes. Long answer: Watch the livestream recording for the whole backstory/origins/etc.*
+> *Short answer: Yes. Long answer: Watch the livestream recording for the whole backstory/origins/etc.*
 
 </details>
 
@@ -308,11 +317,13 @@ An expandable FAQ/Q&A highlights from the official livestream event. *Answers in
     ❓ <b> Does Moonchild Luna es "hijo de la luna" in Spanish? </b>
   </summary>
 
-*Maybe? I don't really know Spanish, so I'm unsure if that translates to "son/child/offspring of the moon", but the reason behind the "moonchild/moonkid" part of my name refers directly to [my story/lore of being a young moon](https://www.youtube.com/watch?v=0JPNlucxbik). As in, it's not that my parent is the (Earth's) moon, but rather that I myself am a moon that is younger than other moons. Although, masculine/feminine word language-wise ("hijo"), it works either way, as my character is meant to be sort of genderless/genderfluid as a non-human. (I'm Canadian, so I'm just basing my Latin-root-language logic off of what I know from French.)*
+> Luna: *Maybe? I don't really know Spanish, so I'm unsure if that translates to "son/child/offspring of the moon", but the reason behind the "moonchild/moonkid" part of my name refers directly to [my story/lore of being a young moon](https://www.youtube.com/watch?v=0JPNlucxbik). As in, it's not that my parent is the (Earth's) moon, but rather that I myself am a moon that is younger than other moons. Although, masculine/feminine word language-wise ("hijo"), it works either way, as my character is meant to be sort of genderless/genderfluid as a non-human. (I'm Canadian, so I'm just basing my Latin-root-language logic off of what I know from French.)*
 </details>
 
 <!------------------------------------------- DIVIDER ------------------------------------------->
+---
 
-### [Back to Top](https://github.com/borasaekluna/database-detective-info/blob/main/README.md#database-detective-info)
+![assistant dance gif](https://clan.fastly.steamstatic.com/images//45766296/093b448acd19006a5ea97841d241ca570aa19f1a.png)\
+⬆️ **[Back to Top](https://github.com/borasaekluna/database-detective-info/blob/main/README.md#database-detective-info)** ⬆️ 
 
 
