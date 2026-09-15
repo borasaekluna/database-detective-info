@@ -1,17 +1,35 @@
-# database-detective-info
-The official GitHub repository for information about the Database Detective: Minor Crimes Division game.
+# Database Detective Info 
+`database-detective-info` is the official GitHub repository for information about the [Database Detective: Minor Crimes Division](https://store.steampowered.com/app/3950130/Database_Detective_Minor_Crimes_Division) game.
 
-Database Detective is out NOW on Steam!
-https://store.steampowered.com/app/3950130/Database_Detective_Minor_Crimes_Division
+**Instagram** [https://www.instagram.com/databasedetective/](https://www.instagram.com/databasedetective/)
+**YouTube** [https://www.youtube.com/@thomashsuster](https://www.youtube.com/@thomashsuster)
+**TikTok** [https://www.tiktok.com/@database.detective](https://www.tiktok.com/@database.detective)
 
-## Solo Dev Q&A & Behind-the-Scenes (Database Detective Release Celebration) Highlights
-An expandable FAQ/Q&A highlights from the official livestream event. Answers include a combination of paraphrasing and direct quotes.
+[Database Detective Trailer](https://youtu.be/LuWbSgne2bw?si=fAeTA5fFkkWauqT-)
+[Database Detective on Steam](https://store.steampowered.com/app/3950130/Database_Detective_Minor_Crimes_Division)
 
-Watch the full livestream VOD on Twitch at [https://www.twitch.tv/moonchildofthenorthforest](https://www.twitch.tv/videos/2824080943)
-or on YouTube at [https://www.youtube.com/playlist?list=PLUqUtyhvpF_4](https://www.youtube.com/playlist?list=PLUqUtyhvpF_4)
+Solo Dev Q&A & Behind-the-Scenes (Database Detective Release Celebration)
+Available to watch on Twitch & YouTube!
+Twitch [https://www.twitch.tv/moonchildofthenorthforest](https://youtube.com/playlist?list=PLUqUtyhvpF_4&si=dd_6gbnHriuDDRDu) 
+*(full livestream VOD)*
+YouTube [https://www.youtube.com/playlist?list=PLUqUtyhvpF_4](https://www.youtube.com/playlist?list=PLUqUtyhvpF_4)
+*(playlist of 15-minute segmented videos from the full VOD)*
 
-## Directly DBD Related
+## Jump to:
+[General FAQ (incl. some pre-release questions)](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#general-faq-incl-some-pre-release-questions)
 
+[Solo Dev Q&A & Behind-the-Scenes (Database Detective Release Celebration) Highlights](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#solo-dev-qa--behind-the-scenes-database-detective-release-celebration-highlights)
+
+[Directly DBD Related](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#directly-dbd-related)
+
+[Bonus / Extra Questions](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#bonus--extra-questions)
+
+We've created our multi-purpose Feedback Form (bug reports/feature requests/other suggestions/etc) here: 
+[https://forms.gle/jzoHDEPSmvUTxZP78](https://forms.gle/jzoHDEPSmvUTxZP78)
+This has our most preferred #1 method (most organized/efficient), so please do prioritize the form (instead of Steam/Discord) if you can~
+
+
+<!-- Q&A TEMPLATE
 <details>
 
 <summary> Question </summary>
@@ -21,6 +39,110 @@ or on YouTube at [https://www.youtube.com/playlist?list=PLUqUtyhvpF_4](https://w
 Answers go here (can use other markdown: code blocks, images/screenshots from stream VOD, etc)
 
 </details>
+-->
+
+## General FAQ (incl. some pre-release questions)
+
+<details>
+
+<summary> Game release when? </summary>
+
+### Game release when?
+
+July 17th, 2026
+
+</details>
+
+<details>
+
+<summary> But at what cost?! </summary>
+
+### But at what cost?!
+
+Only $12.75 during two-week 15% launch discount, then returning to $14.99 base price. *(Prices will be localized by purchasing power.)*
+
+</details>
+
+<details>
+
+<summary> Localization (languages/translations)? </summary>
+
+### Localization (languages/translations)?
+
+No plans for localization *for now*... The game has a *lot* of specific graphics and hand-drawn designs, that would be quite complicated to rework/redesign, especially for a small indie game/developer. Some cases are specifically really hard to localize since they incorporate wordplay that would be hard to translate into other languages. `(RELEASE UPDATE: Potential community contributed localization plan... We'll announce this when we are ready.)`
+
+</details>
+
+<details>
+
+<summary> I know some SQL already, but my query won’t work?? </summary>
+
+### I know some SQL already, but my query won’t work??
+
+There’s actually lots of different versions/spinoffs of SQL languages! So there may be some small differences between whichever one you know and the one used in DBD, but most of it should be very similar. The game uses SQLite! *Some syntax may not be included depending on complexity/advanced (see next question response).*
+
+</details>
+
+<details>
+
+<summary> Will there be (advanced SQL syntax example here)? </summary>
+
+### Will there be (advanced SQL syntax example here)?
+
+The base game is meant cover/include SQL that would be part of something more like an introductory course, so players from various backgrounds & skill levels can still have fun with this detective game! (*If* we were to design some bonus cases/challenges with advanced SQL, it would probably make more sense as a DLC/optional add-on, but not requiring advanced skills in order to complete the main game. *But no plans for that at the moment.*)
+
+</details>
+
+<details>
+
+<summary> What happens if I choose the wrong suspect? </summary>
+
+### What happens if I choose the wrong suspect?
+
+~~If you get a single case wrong, the game will move on and you'll get a message from your supervisor. If you give additional wrong answers, you'll get the chance to submit another answer.~~ It's actually a bit complicated to explain the consequences exactly, *but maybe it's best if you don't arrest the wrong suspect, eh Detective? We ARE doing very serious work here, you know.*
+
+</details>
+
+<details>
+
+<summary> Can we replay cases/levels or skip to specific ones? </summary>
+
+### Can we replay cases/levels or skip to specific ones?
+
+~~In the current version of the full game, you will only unlock the ability to replay specific cases after you've completed all of the existing ten, but this may change in future updates.~~ `(RELEASE UPDATE: You can now skip to levels that you've completed at any time.)`
+
+</details>
+
+<details>
+
+<summary> How come my friend and I have different data? </summary>
+
+### How come my friend and I have different data?
+
+Some details/data within cases are randomly generated, including the names of the suspects and the tables themselves.
+
+</details>
+
+<details>
+
+<summary> I really enjoyed the game! Is there any way for me to directly support/donate you as a solo developer (like Kofi, Patreon, or even a Steam Supporter Pack DLC, etc)? </summary>
+
+### I really enjoyed the game! Is there any way for me to directly support/donate you as a solo developer (like Kofi, Patreon, or even a Steam Supporter Pack DLC, etc)?
+
+> Thank you so much! The best way to support me is to purchase the game and wishlist what I make next. Purchasing through Steam directly also has its benefits, as it impacts how much Valve promotes the game algorithmically (through the Discovery Queue, daily deals, etc) so you're still helping me in that way! 
+
+*(and of course, you can spread the word to your friends/family/coworkers/teachers/students/etc, which a lot of you have already been doing! :o7:  It's been super fun reading your stories about it^^)*
+
+</details>
+
+
+## Solo Dev Q&A & Behind-the-Scenes (Database Detective Release Celebration) Highlights
+An expandable FAQ/Q&A highlights from the official livestream event. Answers include a combination of paraphrasing and direct quotes.
+
+Watch the full livestream VOD on Twitch at [https://www.twitch.tv/moonchildofthenorthforest](https://www.twitch.tv/videos/2824080943)
+or on YouTube at [https://www.youtube.com/playlist?list=PLUqUtyhvpF_4](https://www.youtube.com/playlist?list=PLUqUtyhvpF_4)
+
+## Directly DBD Related
 
 <details>
 
@@ -161,99 +283,6 @@ It's not just a game mechanic. It's also part of teaching SQL. Because if you're
 
 </details>
 
-## General FAQ (incl. some pre-release questions)
-
-<details>
-
-<summary> Game release when? </summary>
-
-### Game release when?
-
-July 17th, 2026
-
-</details>
-
-<details>
-
-<summary> But at what cost?! </summary>
-
-### But at what cost?!
-
-Only $12.75 during two-week 15% launch discount, then returning to $14.99 base price. *(Prices will be localized by purchasing power.)*
-
-</details>
-
-<details>
-
-<summary> Localization (languages/translations)? </summary>
-
-### Localization (languages/translations)?
-
-No plans for localization *for now*... The game has a *lot* of specific graphics and hand-drawn designs, that would be quite complicated to rework/redesign, especially for a small indie game/developer. Some cases are specifically really hard to localize since they incorporate wordplay that would be hard to translate into other languages. `(RELEASE UPDATE: Potential community contributed localization plan... We'll announce this when we are ready.)`
-
-</details>
-
-<details>
-
-<summary> I know some SQL already, but my query won’t work?? </summary>
-
-### I know some SQL already, but my query won’t work??
-
-There’s actually lots of different versions/spinoffs of SQL languages! So there may be some small differences between whichever one you know and the one used in DBD, but most of it should be very similar. The game uses SQLite! *Some syntax may not be included depending on complexity/advanced (see next question response).*
-
-</details>
-
-<details>
-
-<summary> Will there be (advanced SQL syntax example here)? </summary>
-
-### Will there be (advanced SQL syntax example here)?
-
-The base game is meant cover/include SQL that would be part of something more like an introductory course, so players from various backgrounds & skill levels can still have fun with this detective game! (*If* we were to design some bonus cases/challenges with advanced SQL, it would probably make more sense as a DLC/optional add-on, but not requiring advanced skills in order to complete the main game. *But no plans for that at the moment.*)
-
-</details>
-
-<details>
-
-<summary> What happens if I choose the wrong suspect? </summary>
-
-### What happens if I choose the wrong suspect?
-
-~~If you get a single case wrong, the game will move on and you'll get a message from your supervisor. If you give additional wrong answers, you'll get the chance to submit another answer.~~ It's actually a bit complicated to explain the consequences exactly, *but maybe it's best if you don't arrest the wrong suspect, eh Detective? We ARE doing very serious work here, you know.*
-
-</details>
-
-<details>
-
-<summary> Can we replay cases/levels or skip to specific ones? </summary>
-
-### Can we replay cases/levels or skip to specific ones?
-
-~~In the current version of the full game, you will only unlock the ability to replay specific cases after you've completed all of the existing ten, but this may change in future updates.~~ `(RELEASE UPDATE: You can now skip to levels that you've completed at any time.)`
-
-</details>
-
-<details>
-
-<summary> How come my friend and I have different data? </summary>
-
-### How come my friend and I have different data?
-
-Some details/data within cases are randomly generated, including the names of the suspects and the tables themselves.
-
-</details>
-
-<details>
-
-<summary> I really enjoyed the game! Is there any way for me to directly support/donate you as a solo developer (like Kofi, Patreon, or even a Steam Supporter Pack DLC, etc)? </summary>
-
-### I really enjoyed the game! Is there any way for me to directly support/donate you as a solo developer (like Kofi, Patreon, or even a Steam Supporter Pack DLC, etc)?
-
-> Thank you so much! The best way to support me is to purchase the game and wishlist what I make next. Purchasing through Steam directly also has its benefits, as it impacts how much Valve promotes the game algorithmically (through the Discovery Queue, daily deals, etc) so you're still helping me in that way! 
-
-*(and of course, you can spread the word to your friends/family/coworkers/teachers/students/etc, which a lot of you have already been doing! :o7:  It's been super fun reading your stories about it^^)*
-
-</details>
 
 
 
