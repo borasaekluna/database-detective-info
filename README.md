@@ -20,8 +20,7 @@
 [Quick Links (Feedback/Bug Reports/Feature Requests)](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#feedback--bug-reports--feature-requests)
 
 ## FAQ / Q&A - *info within this page*
-[General FAQ](https://github.com/borasaekluna/database-detective-info/blob/main/README.md#general-faq-incl-some-pre-release-questions)
-*(incl. some pre-release questions)*\
+[General FAQ](https://github.com/borasaekluna/database-detective-info/blob/main/README.md#general-faq)\
 [Database Detective Release Celebration Livestream Event](https://github.com/borasaekluna/database-detective-info/blob/main/README.md#database-detective-release-celebration-livestream-event) </br> *(Solo Dev Q&A & Behind-the-Scenes Highlights)* </br>
 ▫️ [Directly DBD Related Questions *(Section 1/2)*](https://github.com/borasaekluna/database-detective-info/blob/main/README.md#directly-dbd-related-questions-section-12) </br>
 ▫️ [Bonus / Extra Questions *(Section 2/2)*](https://github.com/borasaekluna/database-detective-info/blob/main/README.md#bonus--extra-questions-section-22)
@@ -74,7 +73,9 @@ Answers go here (can use other markdown: code blocks, images/screenshots from st
 
 <!------------------------------------------- DIVIDER ------------------------------------------->
 
-# General FAQ *(incl. some pre-release questions)*
+# General FAQ 
+A list of expandable general FAQ/Q&A not from the livestream event. *Answers include a combination of paraphrasing and direct quotes.*
+
 ![think](https://clan.fastly.steamstatic.com/images//45766296/635ad8bbd33fa675070dc329c6fc3acd90daa137.png)
 
 <!-- Game release when? -->
@@ -166,7 +167,7 @@ Answers go here (can use other markdown: code blocks, images/screenshots from st
 ---
 
 # Database Detective Release Celebration Livestream Event
-*Hosted by [Moonchild Luna](https://luna-song.carrd.co/#)*.
+*Hosted by [Moonchild Luna](https://luna-song.carrd.co/#)* 🍁🌙
 
 ![DBD Livestream Event thumbnail image](https://media.discordapp.net/attachments/1517626982899122437/1528514698507718937/dbd_thumb.png?ex=6aaa61fe&is=6aa9107e&hm=1c11fa73bb0b834af1db747e9748841bd3d5b019be38787975754f534d9177f5&=&format=webp&quality=lossless&width=384&height=216)
 
@@ -177,7 +178,7 @@ Answers go here (can use other markdown: code blocks, images/screenshots from st
 **YouTube** [YouTube Playlist](https://www.youtube.com/playlist?list=PLUqUtyhvpF_4) *(playlist of 15-minute segmented videos from the full VOD)*
 
 ## Solo Dev Q&A & Behind-the-Scenes
-An expandable FAQ/Q&A highlights from the official livestream event. *Answers include a combination of paraphrasing and direct quotes.*
+A list of expandable FAQ/Q&A highlights from the official livestream event. *Answers include a combination of paraphrasing and direct quotes.*
 
 ![think](https://clan.fastly.steamstatic.com/images//45766296/635ad8bbd33fa675070dc329c6fc3acd90daa137.png)
 
