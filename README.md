@@ -9,25 +9,24 @@
 
 <!------------------------------------------- DIVIDER ------------------------------------------->
 ---
-![steam badges as horizontal divider](https://clan.fastly.steamstatic.com/images//45766296/ab75763dc6d77f0ef226e01367b186de3a0fdc66.png)![steam badges as horizontal divider](https://clan.fastly.steamstatic.com/images//45766296/ab75763dc6d77f0ef226e01367b186de3a0fdc66.png)
+![steam badges as horizontal divider](https://clan.fastly.steamstatic.com/images//45766296/ab75763dc6d77f0ef226e01367b186de3a0fdc66.png)
 
-# Jump to:
-## Quick Links - *(lists of external links)*
+# 📍 Jump to:
+## Quick Links - *lists of external links*
 
 [Quick Links (Socials)](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#socials)\
 [Quick Links (Community/Discussion)](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#community)\
 [Quick Links (YouTube Trailers)](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#youtube-trailers)\
 [Quick Links (Feedback/Bug Reports/Feature Requests)](https://github.com/borasaekluna/database-detective-info/blob/rough_01/README.md#feedback--bug-reports--feature-requests)
 
-## FAQ / Q&A - *(info within this page)*
-[General FAQ *(incl. some pre-release questions)*](https://github.com/borasaekluna/database-detective-info/blob/main/README.md#general-faq-incl-some-pre-release-questions)
+## FAQ / Q&A - *info within this page*
+[General FAQ](https://github.com/borasaekluna/database-detective-info/blob/main/README.md#general-faq-incl-some-pre-release-questions)
+*(incl. some pre-release questions)*\
+[Database Detective Release Celebration Livestream Event](https://github.com/borasaekluna/database-detective-info/blob/main/README.md#database-detective-release-celebration-livestream-event) </br> *(Solo Dev Q&A & Behind-the-Scenes Highlights)* </br>
+▫️ [Directly DBD Related Questions *(Section 1/2)*](https://github.com/borasaekluna/database-detective-info/blob/main/README.md#directly-dbd-related-questions-section-12) </br>
+▫️ [Bonus / Extra Questions *(Section 2/2)*](https://github.com/borasaekluna/database-detective-info/blob/main/README.md#bonus--extra-questions-section-22)
 
-[Solo Dev Q&A & Behind-the-Scenes *(Database Detective Release Celebration Livestream Event)* Highlights](https://github.com/borasaekluna/database-detective-info/blob/main/README.md#database-detective-release-celebration-livestream-event)
-- [Directly DBD Related Questions *(Section 1/2)*](https://github.com/borasaekluna/database-detective-info/blob/main/README.md#directly-dbd-related-questions-section-12)
-- [Bonus / Extra Questions *(Section 2/2)*](https://github.com/borasaekluna/database-detective-info/blob/main/README.md#bonus--extra-questions-section-22)
-
-![steam badges as horizontal divider](https://clan.fastly.steamstatic.com/images//45766296/ab75763dc6d77f0ef226e01367b186de3a0fdc66.png)![steam badges as horizontal divider](https://clan.fastly.steamstatic.com/images//45766296/ab75763dc6d77f0ef226e01367b186de3a0fdc66.png)
-
+![steam badges as horizontal divider](https://clan.fastly.steamstatic.com/images//45766296/ab75763dc6d77f0ef226e01367b186de3a0fdc66.png)
 ---
 <!------------------------------------------- DIVIDER ------------------------------------------->
 
@@ -38,28 +37,28 @@
 
 # Quick Links
 
-### Socials
-**Instagram** [https://www.instagram.com/databasedetective/](https://www.instagram.com/databasedetective/)\
-**YouTube** [https://www.youtube.com/@thomashsuster](https://www.youtube.com/@thomashsuster)\
-**TikTok** [https://www.tiktok.com/@database.detective](https://www.tiktok.com/@database.detective)\
-**Steam Page** [Database Detective: Minor Crimes Division game on Steam](https://store.steampowered.com/app/3950130/Database_Detective_Minor_Crimes_Division)
+### 💬 Socials
+**Instagram** [@databasedetective](https://www.instagram.com/databasedetective/)\
+**YouTube** [@thomashsuster](https://www.youtube.com/@thomashsuster)\
+**TikTok** [@database.detective](https://www.tiktok.com/@database.detective)\
+**Steam Page** [Database Detective: Minor Crimes Division](https://store.steampowered.com/app/3950130/Database_Detective_Minor_Crimes_Division)
 
-### Community
+### 🙌 Community
 **Discord** [Join our Discord server!](https://discord.gg/vGFGP4CyUd)\
 **Steam** [Check out the Community Discussions threads!](https://steamcommunity.com/app/3950130/discussions/)
 
-### YouTube Trailers
+### 📺 YouTube Trailers
 Game Trailer [DATABASE DETECTIVE TRAILER](https://youtu.be/LuWbSgne2bw?si=fAeTA5fFkkWauqT-)\
 Game Release Date Announcement [Database Detective: Minor Crimes Division | Release Date Trailer](https://youtu.be/9R1E-J1YAWM?si=2kzC9_Nc9eG3VtMH)\
 Steam Game Launch [Database Detective: Minor Crimes Division | Launch Trailer](https://youtu.be/ij2HJW8ZF0c?si=JSTx5YubCjzOZrOj)
 
 ![trailer1 gif](https://i.ytimg.com/an_webp/LuWbSgne2bw/mqdefault_6s.webp?du=3000&sqp=CLCFp9UG&rs=AOn4CLB-AXAZfL-IfvxqlMPdhg2BNQ37Zw)
 
-### Feedback / Bug Reports / Feature Requests
+### 📬 Feedback / Bug Reports / Feature Requests
 [Known Issues](https://steamcommunity.com/app/3950130/discussions/0/580551263528204084/) *(known issues list on Steam community discussions pinned post)*\
 [Multi-Purpose Feedback Form](https://forms.gle/jzoHDEPSmvUTxZP78) *(bug reports/feature requests/other suggestions/etc)*
 
-**The form is our preferred method (for tracking/organization)**, but you can also use the [Steam community discussions](https://steamcommunity.com/app/3950130/discussions/) pinned posts or the bug-reports & feature-requests channels in [our Discord server](https://discord.gg/vGFGP4CyUd).
+***The form is our preferred method (for tracking/organization)**, but you can also use the [Steam community discussions](https://steamcommunity.com/app/3950130/discussions/) pinned posts or the bug-reports & feature-requests channels in [our Discord server](https://discord.gg/vGFGP4CyUd).*
 
 ![the city needs your help](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3950130/extras/5e672006660a562968980b9eeda202e5.webp?t=1784303268)\
 ![soymole gif](https://clan.fastly.steamstatic.com/images//45766296/c3ca223ef5cd4a3d0d4b304137e654fd6c02db88.png)
@@ -154,7 +153,7 @@ Answers go here (can use other markdown: code blocks, images/screenshots from st
 <!-- I really enjoyed the game! Is there any way for me to directly support/donate you as a solo developer (like Kofi, Patreon, or even a Steam Supporter Pack DLC, etc)? -->
 <details>
   <summary> 
-    ❓ <b> I really enjoyed the game! Is there any way for me to directly support/donate you as a solo developer *(like Kofi, Patreon, or even a Steam Supporter Pack DLC, etc) </b>
+    ❓ <b> I really enjoyed the game! Is there any way for me to directly support/donate you as a solo developer <i> (like Kofi, Patreon, or even a Steam Supporter Pack DLC, etc)</i> </b>
   </summary>
 
   > Thank you so much! The best way to support me is to purchase the game and wishlist what I make next. Purchasing through Steam directly also has its benefits, as it impacts how much Valve promotes the game algorithmically (through the Discovery Queue, daily deals, etc) so you're still helping me in that way! 
